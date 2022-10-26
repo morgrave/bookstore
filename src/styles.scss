@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+.main-container .content-container .sidenav {
+  flex: 0 0 auto;
+  order: -1;
+  overflow-y: scroll;
+}
+.main-container .content-container .sidenav::-webkit-scrollbar {
+  display: none;
+}
+.clr-vertical-nav:not(.is-collapsed) {
+  width: 15rem !important;
+}

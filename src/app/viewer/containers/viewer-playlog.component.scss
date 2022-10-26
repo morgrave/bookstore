@@ -1,0 +1,74 @@
+.loading {
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.viewarea {
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.interfacearea {
+    z-index: 2;
+    position: relative;
+    top: 30px;
+    left: 30px;
+    width: 0px;
+    height: 0px;
+}
+
+.imagearea {
+    height: 100%;
+    width: -moz-available;
+    width: -webkit-fill-available;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    text-align: center;
+}
+
+.mid {
+    position: fixed;
+    z-index: 999;
+    font-size: 20px;
+    top: 50%;
+    right: 12px;
+    color: red;
+    cursor: default;
+}
+
+.expandbar {
+    position: fixed;
+    z-index: 999;
+    margin-left: -1px;
+    min-width: 7px;
+    height: 100%;
+    border-left: 1px solid black;
+    background-color: transparent;
+    cursor: w-resize;
+}
+
+.textarea {
+    z-index: 3;
+    height: 100%;
+    overflow-y: scroll;
+    border-left: .05rem solid #ccc;
+}
+
+@media (max-width: 1200px) {
+    .expandbar {
+        display: none;
+    }
+    .imagearea {
+        display: none;
+    }
+    .textarea {
+        min-width: 0px !important;
+    }
+    .mid {
+        display: none;
+    }
+}

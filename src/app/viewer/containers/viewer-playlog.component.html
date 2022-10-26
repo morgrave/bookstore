@@ -1,0 +1,20 @@
+<div class="loading" *ngIf="!viewerService.log; else viewer">
+  <div class="spinner">Loading...</div>
+</div>
+<ng-template #viewer>
+  <div class="viewarea">
+    <div id="interfacearea" class="interfacearea" *ngIf="viewerService.curInterfaces.length">
+      <app-viewer-interface [interface]="viewerService.interface"></app-viewer-interface>
+    </div>
+    <div id="imgarea" class="imagearea" *ngIf="viewerService.curImages.length" (panstart)="saveLastPos()" (pan)="onPan($event)">
+      <app-viewer-image [image]="viewerService.image"></app-viewer-image>
+    </div>
+    <div class="textarea" [style.width]="viewerService.curImages.length === 0 ? '100%' : textareaWidth" [style.min-width]="textareaWidth" (scroll)="onScroll($event)">
+      <div class="expandbar" *ngIf="viewerService.curImages.length" (panstart)="saveLastTextAreaWidth()" (pan)="expandTextArea($event)"></div>
+      <div id="mid" class="mid">
+        ◀
+      </div>
+      <app-viewer-text [log]="viewerService.log"></app-viewer-text>
+    </div>
+  </div>
+</ng-template>

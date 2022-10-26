@@ -1,0 +1,29 @@
+img {
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    cursor: grab;
+}
+
+.screen {
+}
+
+#zoomclick {
+  position: absolute;
+  z-index: 1;
+  right: 311px;
+}
+
+@media (max-height: 900px) {
+    .screen {
+    }
+}
+
+@media (max-width: 800px) {
+    .screen {
+        max-width: 100%;
+    }
+}

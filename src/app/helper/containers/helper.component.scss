@@ -1,0 +1,95 @@
+.containers {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.helper-container {
+    display: flex;
+    width: -moz-available;
+    width: -webkit-fill-available;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.form-container {
+    height: 100%;
+    width: 405px;
+    min-width: 405px;
+    overflow-y: scroll;
+    border-left: .05rem solid #ccc;
+}
+
+.expandbar {
+    position: fixed;
+    z-index: 999;
+    margin-left: -1px;
+    min-width: 7px;
+    height: 100%;
+    border-left: 1px solid black;
+    background-color: transparent;
+    cursor: w-resize;
+}
+
+.background {
+    width: 567px;
+    height: 735px;
+    position: fixed;
+}
+
+.paper {
+    color: black;
+    height: 735px;
+    font-size: 40px;
+    font-family: 'SDMiSaeng';
+    z-index: 1;
+}
+
+.title {
+    position: relative;
+    text-align: center;
+    font-size: 48px;
+    top: 135px;
+}
+
+.items {
+    display: flex;
+    position: relative;
+    top: 200px;
+    width: 460px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.portrait {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.name {
+    padding-right: 10px;
+}
+
+.names {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.options {
+    padding: 0 10px 0 10px;
+}
+
+.card-header {
+    display: flex;
+    flex-direction: row;
+}
+
+.clickable.selected{
+    box-shadow: 0 .15rem 0 0 #1769D3;
+    border-color: #1769D3;
+}

@@ -1,0 +1,58 @@
+<div class="containers">
+  <div class="helper-container">
+    <img class="background" [src]="image" />
+    <div class="paper" *ngIf="adventure">
+      <div class="title">
+        {{ adventure.title }}
+      </div>
+      <div class="items">
+        <div class="names">
+          <div class="name">수익</div>
+        </div>
+        <div class="amount">{{ income | number }}gp</div>
+      </div>
+      <div class="items" *ngFor="let outcome of outcomes">
+        <div class="names">
+          <!-- <img class="portrait" *ngIf="outcome.file" [src]="outcome.file"> -->
+          <div class="name">
+            {{ outcome.name }}
+          </div>
+          <div class="percent">({{ outcome.value }}%)</div>
+        </div>
+        <div class="amount">
+          {{ (income * outcome.value) / 100 | number }}gp
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="form-container">
+    <div class="expandbar"></div>
+    <div class="options">
+      <h1>조력자들</h1>
+      <!-- {{ formGroup.value | json }}
+      <form [formGroup]="getForm()">
+        <div *ngFor="let item of ['elaydren', 'elaydren2', 'elaydren3']">
+          <input type="checkbox" [formControlName]="item" />
+          <span>{{ item }}</span>
+        </div>
+      </form> -->
+      <div class="card clickable" *ngFor="let npc of npcList" (click)="modifyForm(npc)" [ngClass]="{ selected: isSelected(npc) }">
+        <div class="card-header">{{ npc.name }} ({{ npc.value }}%)</div>
+        <div class="card-block">
+          <div class="card-media-block">
+            <img
+              src="{{ npc.file }}"
+              class="card-media-image"
+            />
+            <div class="card-media-description">
+              <!-- <span class="card-media-title">ㅇㅇㅇㅇㅇㅇㅇㅇ</span> -->
+              <span class="card-media-text"
+                >{{ npc.desc }}</span
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

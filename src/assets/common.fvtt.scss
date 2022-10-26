@@ -1,0 +1,148 @@
+.main-container header {
+}
+
+.message-header {
+  background-color: #E0DDD4;
+  flex: 0 0 0 !important;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.message-portrait {
+  flex: 0 0 0px;
+  margin-right: 5px;
+  margin-bottom: 3px;
+}
+
+.flavor-text {
+  flex: 0 0 100%;
+  color: #4b4a44;
+}
+
+.message-sender {
+  flex: 3;
+  color: #4b4a44 !important;
+  font-size: 14px !important;
+  margin-top: 0px !important;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.item-name {
+  margin-top: 0px !important;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  white-space: normal;
+}
+
+.dnd5e.chat-card {
+  font-style: normal;
+  font-size: 12px;
+}
+
+.card-header {
+  padding: 3px 0;
+  font-weight: 700;
+  border-top: 2px groove #FFF;
+  border-bottom: 2px groove #FFF;
+  background-color: #E0DDD4;
+}
+
+.dnd5e.chat-card .card-buttons button {
+  font-size: 12px;
+  height: 24px;
+  line-height: 20px;
+  margin: 2px 0;
+}
+
+.dnd5e.chat-card .card-footer {
+  padding: 3px 0 0;
+  border-top: 2px groove #FFF;
+}
+
+.dnd5e.chat-card .card-footer span {
+  border-right: 2px groove #FFF;
+  padding: 0 3px 0 0;
+  font-size: 10px;
+}
+
+.dnd5e.chat-card .card-footer span:last-child {
+  border-right: none;
+  padding-right: 0;
+}
+
+.dnd5e button {
+  background: rgba(0, 0, 0, 0.1);
+  border: 2px groove #eeede0;
+}
+
+.part-header {
+  background-color: #E0DDD4;
+}
+
+.dice-roll .dice-formula, .dice-roll .dice-total {
+  flex: 0 0 100%;
+  position: relative;
+  margin: 0;
+  line-height: 24px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--color-border-light-2);
+  border-radius: 3px;
+  box-shadow: 0 0 2px #fff inset;
+  word-break: break-all;
+}
+
+.dice-roll .dice-total {
+  flex: 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.dfce-cm-top {
+  background-color: blue;
+  border-bottom: none;
+  border-radius: 5px 5px 0 0;
+  margin-bottom: 0;
+  padding-bottom: 2.5px;
+}
+
+.flexcol {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.chat-message {
+  margin: 3px;
+  padding: 5px;
+  font-size: 14px;
+  color: #191813;
+  background-color: #E0DDD4;
+  border: 2px solid #6f6c66;
+  border-radius: 5px;
+}
+
+.message-timestamp, .tooltip-part {
+  display: none;
+}
+
+.cards-notification .icon {
+  flex: 0 0 32px;
+  height: 32px;
+  margin-right: 8px;
+}
+
+a.content-link, a.inline-roll {
+  background: #DDD;
+  padding: 1px 4px;
+  border: 1px solid black;
+  border-radius: 2px;
+  white-space: nowrap;
+  word-break: break-all;
+}
