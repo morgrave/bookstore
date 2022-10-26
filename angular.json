@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "bookshelf": {
+    "bookstore": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -20,7 +20,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/bookshelf",
+            "outputPath": "dist/bookstore",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -81,18 +81,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "bookshelf:build"
+            "browserTarget": "bookstore:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "bookshelf:build:production"
+              "browserTarget": "bookstore:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "bookshelf:build"
+            "browserTarget": "bookstore:build"
           }
         },
         "test": {
@@ -129,22 +129,22 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "bookshelf:serve"
+            "devServerTarget": "bookstore:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "bookshelf:serve:production"
+              "devServerTarget": "bookstore:serve:production"
             }
           }
         },
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "/bookshelf/"
+            "baseHref": "/bookstore/"
           }
         }
       }
     }
   },
-  "defaultProject": "bookshelf"
+  "defaultProject": "bookstore"
 }
