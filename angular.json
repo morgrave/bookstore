@@ -29,10 +29,18 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/VS/logs/",
+                "output": "/campaigns/VS/logs/"
+              },
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/VS/images/62",
+                "output": "/campaigns/VS/images/62"
+              },
               "src/campaigns/UDT/images/1/",
               "src/campaigns/UDT/logs/",
-              "src/campaigns/VS/images/1/",
-              "src/campaigns/VS/logs/",
               "src/campaigns/COS/images/1/",
               "src/campaigns/COS/logs/",
               "src/campaigns/SKT/logs/"
