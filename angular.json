@@ -36,8 +36,8 @@
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/VS/images/62",
-                "output": "/campaigns/VS/images/62"
+                "input": "../bookshelf/src/campaigns/VS/images/44.5",
+                "output": "/campaigns/VS/images/44.5"
               },
               {
                 "glob": "**/*.*",
@@ -46,11 +46,19 @@
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/UDT/images/34",
-                "output": "/campaigns/UDT/images/34"
+                "input": "../bookshelf/src/campaigns/UDT/images/36",
+                "output": "/campaigns/UDT/images/36"
               },
-              "src/campaigns/COS/images/1/",
-              "src/campaigns/COS/logs/",
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/COS/logs/",
+                "output": "/campaigns/COS/logs/"
+              },
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/COS/images/2",
+                "output": "/campaigns/COS/images/2"
+              },
               "src/campaigns/SKT/logs/"
             ],
             "styles": [
