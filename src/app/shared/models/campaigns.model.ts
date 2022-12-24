@@ -285,6 +285,26 @@ export const Campaigns = [
         name: '세이직',
         avatar: 'npc_sasik.png',
       },
+      {
+        name: '말로나',
+        avatar: 'npc_mallona.png',
+      },
+      {
+        name: '크로우',
+        avatar: 'npc_crow.png',
+      },
+      {
+        name: '엘프 ',
+        avatar: 'npc_ladika.png',
+      },
+      {
+        name: '라드카',
+        avatar: 'npc_ladika.png',
+      },
+      {
+        name: '모라나',
+        avatar: 'npc_morana.png',
+      },
     ],
     logs: [
       {
@@ -12579,6 +12599,222 @@ export const Campaigns = [
           },
         ],
         interfaces: [
+        ],
+      },
+      {
+        index: '39',
+        name: '39화: 우당탕탕! 롱 쉐도우 대작전!',
+        images: [
+          {
+            id: `Clv04uKlwrlVXQE5`,
+            file: '0.jpg',
+          },
+          {
+            id: `HL0xerp9CxGFHqhY`,
+            file: '1.jpg',
+          },
+          {
+            id: `H0xSrq3vGNnJfwv2`,
+            file: '0.jpg',
+          },
+          {
+            id: `TlCsROPgpealombg`,
+            file: '2.jpg',
+          },
+          {
+            id: `CPJCgkFRyd6Fh8xL`,
+            file: '3.jpg',
+          },
+          {
+            id: `43zjcPlDkNNk2O9p`,
+            file: '4.jpg',
+          },
+          {
+            id: `dndrXY0S2f8SUZ5m`,
+            file: '5.jpg',
+          },
+          {
+            id: `4cIWSRwQIYKA4Bvn`,
+            file: '6.jpg',
+          },
+          {
+            id: `tf5RrBUOW1ZXlIAJ`,
+            file: '7.jpg',
+          },
+          {
+            id: `NSaOlNOuCTfv09td`,
+            file: '8.jpg',
+          },
+          {
+            id: `vY5SzfWBrt0O5dpT`,
+            file: '9.jpg',
+          },
+          {
+            id: `nTIXML6HWbL1X0gt`,
+            file: '10.jpg',
+          },
+          {
+            id: `66Ov0yuVmVUIdlok`,
+            file: '11.jpg',
+          },
+          {
+            id: `bjS4Pao8binoNuZu`,
+            file: '12.jpg',
+          },
+          {
+            id: `DcbbnLPQWMCIacRC`,
+            file: '13.jpg',
+          },
+          {
+            id: `oqPZaKOlysZPmKfg`,
+            file: '14.jpg',
+          },
+          {
+            id: `TQIHcuH9XkCOFl20`,
+            file: '15.jpg',
+          },
+          {
+            id: `l9rfSvNLU83TtyKe`,
+            file: '16.jpg',
+          },
+          {
+            id: `Cy2jeRDSpiHEh0NK`,
+            file: '17.jpg',
+          },
+          {
+            id: `Yl1nWrGOCYS7t3gA`,
+            file: '18.jpg',
+          },
+          {
+            id: `H6lv4nCne2uZ0aNh`,
+            file: '19.jpg',
+          },
+          {
+            id: `imyxT1oaBqil7MoC`,
+            file: '20.jpg',
+          },
+          {
+            id: `pOCUQPOhBE7himxz`,
+            file: '21.jpg',
+          },
+          {
+            id: `EluiWiJanS07IbQT`,
+            file: '22.jpg',
+          },
+          {
+            id: `EYeUCp7ahHGdsudJ`,
+            file: '23.jpg',
+          },
+          {
+            id: `1kXLdlBEniZzIPFn`,
+            file: '24.jpg',
+          },
+          {
+            id: `U0cjoXWa1fwB2H3n`,
+            file: '25.jpg',
+          },
+          {
+            id: `Tz4GXF6irJWqP04L`,
+            file: '26.jpg',
+          },
+          {
+            id: `IbTawXe7prVR9fVl`,
+            file: '27.jpg',
+          },
+          {
+            id: `vXDn9E3nr5ghFcTI`,
+            file: '28.jpg',
+          },
+          {
+            id: `52p3fwEqllVwFjkP`,
+            file: '29.jpg',
+          },
+          {
+            id: `YhaPIoqS6ogvfer3`,
+            file: '30.jpg',
+          },
+          {
+            id: `JTHO7d6QKVlgdtkj`,
+            file: '31.jpg',
+          },
+          {
+            id: `58PD6cgwVN1uazjr`,
+            file: '32.jpg',
+          },
+          {
+            id: `TwKFolOEVYxr7saK`,
+            file: '7.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `Clv04uKlwrlVXQE5`,
+            file: '',
+          },
+          {
+            id: `CKBu2c3Goz6BTHfh`,
+            file: '0.png',
+          },
+          {
+            id: `iPdYu8petWc85DCy`,
+            file: '1.png',
+          },
+          {
+            id: `w7yHhR5s0osYaQAP`,
+            file: '2.png',
+          },
+          {
+            id: `FR6SCOl6HarkoPKz`,
+            file: '3.png',
+          },
+          {
+            id: `vAGc35oEJ8lNfPbJ`,
+            file: '4.png',
+          },
+          {
+            id: `90g52IG4oLDNFZt6`,
+            file: '5.png',
+          },
+          {
+            id: `8MW2NzvmCDzKPpEk`,
+            file: '7.png',
+          },
+          {
+            id: `yAedw59MxddoT1gx`,
+            file: '0.png',
+          },
+          {
+            id: `1exLxkHWeQ5H69WL`,
+            file: '1.png',
+          },
+          {
+            id: `WvamdKnrHgZTvtyk`,
+            file: '2.png',
+          },
+          {
+            id: `UH4FeIob1Ynkwyb2`,
+            file: '3.png',
+          },
+          {
+            id: `wz1smu7dQuLkuY8H`,
+            file: '4.png',
+          },
+          {
+            id: `oebf30EqhgxeKH4O`,
+            file: '6.png',
+          },
+          {
+            id: `CZn9yO8TRuwbEe7N`,
+            file: '0.png',
+          },
+          {
+            id: `9Id0RF06xSOo3VFb`,
+            file: '1.png',
+          },
+          {
+            id: `uV0JQHywesBwsH6L`,
+            file: '',
+          },
         ],
       },
     ]
