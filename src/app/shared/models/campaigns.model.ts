@@ -305,6 +305,10 @@ export const Campaigns = [
         name: '모라나',
         avatar: 'npc_morana.png',
       },
+      {
+        name: '카이우스',
+        avatar: 'npc_kaius.png',
+      },
     ],
     logs: [
       {
@@ -12815,6 +12819,38 @@ export const Campaigns = [
             id: `uV0JQHywesBwsH6L`,
             file: '',
           },
+        ],
+      },
+      {
+        index: '40',
+        name: '40화: 우당탕탕! 국왕폐하 대작전!',
+        images: [
+          {
+            id: `qy3QoVGzwYwemdq4`,
+            file: '0.jpg',
+          },
+          {
+            id: `JNdZJFmQUKcGuWlm`,
+            file: '1.jpg',
+          },
+          {
+            id: `4TDG3CEC2HQakDPO`,
+            file: '0.jpg',
+          },
+          {
+            id: `OHbi3kbBqaaP2Bhf`,
+            file: '1.jpg',
+          },
+          {
+            id: `Ivtr8ZDTsgzV1JFu`,
+            file: '2.jpg',
+          },
+          {
+            id: `sT7XPWJR2RYadlyz`,
+            file: '1.jpg',
+          },
+        ],
+        interfaces: [
         ],
       },
     ]
