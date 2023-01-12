@@ -26,7 +26,7 @@ export interface Image {
 export const Campaigns = [
   {
     title: 'UDT',
-    label: '우당탕탕! 대학 대소동!',
+    label: '우당탕탕! 대학 대소동! (2022)',
     platform: 'FVTT',
     npcs: [
       {
@@ -12857,7 +12857,7 @@ export const Campaigns = [
   },
   {
     title: 'VS',
-    label: '창공의 여행기',
+    label: '창공의 여행기 (2021)',
     platform: 'roll20',
     npcs: [
     ],
@@ -45564,7 +45564,7 @@ export const Campaigns = [
   },
   {
     title: 'WVB',
-    label: '영혼의 검',
+    label: '영혼의 검 (2021)',
     platform: 'roll20',
     npcs: [
     ],
@@ -48037,7 +48037,7 @@ export const Campaigns = [
   },
   {
     title: 'BCS',
-    label: '보울 시티 연대기',
+    label: '보울 시티 연대기 (2021)',
     platform: 'roll20',
     npcs: [
       {
@@ -56888,7 +56888,7 @@ export const Campaigns = [
   },
   {
     title: 'COS',
-    label: '스트라드의 저주',
+    label: '스트라드의 저주 (2022)',
     platform: 'roll20',
     npcs: [
     ],
@@ -58493,7 +58493,7 @@ export const Campaigns = [
   },
   {
     title: 'DCF',
-    label: '불꽃을 덮는 어둠',
+    label: '불꽃을 덮는 어둠 (2023)',
     platform: 'roll20',
     npcs: [
     ],
@@ -58890,24 +58890,455 @@ export const Campaigns = [
           },
         ],
       },
-    ],
-  },
-  {
-    title: 'SKT',
-    label: '폭풍왕의 천둥(판델버 스타팅)',
-    platform: 'roll20',
-    npcs: [
-    ],
-    logs: [
       {
-        index: '1',
-        name: '1화: 뒤쪽에 적이다! 측면을 사수하라!',
+        index: '2',
+        name: '2화',
+        images: [
+          {
+            id: `-NLVUpw_RglphOLHbSk9`,
+            file: '0.jpg',
+          },
+          {
+            id: `-NLVVZwvMRjPSZFBakIN`,
+            file: '1.jpg',
+          },
+          {
+            id: `-NLVWZBuhV5bRdJvivQs`,
+            file: '2.jpg',
+          },
+          {
+            id: `-NLVWuPs1QcV35NwoOb1`,
+            file: '3.jpg',
+          },
+          {
+            id: `-NLVXc1_Wkwk9vs5NNTK`,
+            file: '4.jpg',
+          },
+          {
+            id: `-NLVZUyJzK67DC2-Ox2K`,
+            file: '5.jpg',
+          },
+          {
+            id: `-NLVZq0DLjvCQt04wnk1`,
+            file: '6.jpg',
+          },
+          {
+            id: `-NLV_2xiy4tpiFov-mDT`,
+            file: '7.jpg',
+          },
+          {
+            id: `-NLV_FJ9Qq6134KIj60X`,
+            file: '8.jpg',
+          },
+          {
+            id: `-NLVaT9bnI2cjZzeWrs3`,
+            file: '9.jpg',
+          },
+          {
+            id: `-NLVapqGo70irbd1-WJs`,
+            file: '10.jpg',
+          },
+          {
+            id: `-NLVbryO0GnUgzhAoBj8`,
+            file: '11.jpg',
+          },
+          {
+            id: `-NLVcQwr2vJWMpES0tUZ`,
+            file: '12.jpg',
+          },
+          {
+            id: `-NLVcfP2cwgfD8hMUBkd`,
+            file: '13.jpg',
+          },
+          {
+            id: `-NLVcrJCTct9UtLDB2py`,
+            file: '14.jpg',
+          },
+          {
+            id: `-NLVcyXBBUblqvJplBrS`,
+            file: '15.jpg',
+          },
+          {
+            id: `-NLVd4eBTQxsmkqmIJoN`,
+            file: '16.jpg',
+          },
+          {
+            id: `-NLVdK2TTxj--wz2FXTe`,
+            file: '17.jpg',
+          },
+          {
+            id: `-NLVdVD3oVtDyg-PD3Uc`,
+            file: '18.jpg',
+          },
+          {
+            id: `-NLVdmfJKPcJ2KIwEwGQ`,
+            file: '19.jpg',
+          },
+          {
+            id: `-NLVeDXwQGt_j-sb3R3p`,
+            file: '20.jpg',
+          },
+          {
+            id: `-NLVeHJB1gHhoR-hXhkn`,
+            file: '21.jpg',
+          },
+          {
+            id: `-NLVeMG-NcyPE7NHRi8S`,
+            file: '22.jpg',
+          },
+          {
+            id: `-NLVe_PiSd5WMWpvYdVH`,
+            file: '23.jpg',
+          },
+          {
+            id: `-NLVelfb8lOggC0IhA-P`,
+            file: '24.jpg',
+          },
+          {
+            id: `-NLVg1Mp-NoM6YhSGcwa`,
+            file: '25.jpg',
+          },
+          {
+            id: `-NLVgCMbCRag5Jo7jynH`,
+            file: '26.jpg',
+          },
+          {
+            id: `-NLVgK5TFpszL0FEOqOZ`,
+            file: '27.jpg',
+          },
+          {
+            id: `-NLVgrwH1Wj7LTT6GDMO`,
+            file: '28.jpg',
+          },
+          {
+            id: `-NLVhYU5kQoS9FQXEklE`,
+            file: '29.jpg',
+          },
+          {
+            id: `-NLViPHTN8c5w_pM-xET`,
+            file: '30.jpg',
+          },
+          {
+            id: `-NLVj6vvTK-8rkkTlIgs`,
+            file: '31.jpg',
+          },
+          {
+            id: `-NLVjO_kbJ9KinLvbw9d`,
+            file: '32.jpg',
+          },
+          {
+            id: `-NLVjXwsZXRdXmXBoJ3G`,
+            file: '33.jpg',
+          },
+          {
+            id: `-NLVjpt3rZQpXICevBi9`,
+            file: '0.jpg',
+          },
+          {
+            id: `-NLVjvLaKZ9bIqDeYEt1`,
+            file: '34.jpg',
+          },
+          {
+            id: `-NLVk1GIxvLZTxq0PYBP`,
+            file: '35.jpg',
+          },
+          {
+            id: `-NLVkCP0GhIkubJGFCcC`,
+            file: '36.jpg',
+          },
+          {
+            id: `-NLVkKb5SPo090sQklW7`,
+            file: '37.jpg',
+          },
+          {
+            id: `-NLVkagNe3r8B0jIyx_K`,
+            file: '38.jpg',
+          },
+          {
+            id: `-NLVkhnQr9R_ybJXTIsF`,
+            file: '39.jpg',
+          },
+          {
+            id: `-NLVkubCko1NeiufFIv2`,
+            file: '40.jpg',
+          },
+          {
+            id: `-NLVlhhp4ped_N6PVqHR`,
+            file: '41.jpg',
+          },
+          {
+            id: `-NLVlt_rXsnguvcD1ZKg`,
+            file: '42.jpg',
+          },
+          {
+            id: `-NLVlyzkwKR7c_s0wCOX`,
+            file: '43.jpg',
+          },
+          {
+            id: `-NLVm1sh2ILULtZJDZwg`,
+            file: '44.jpg',
+          },
+          {
+            id: `-NLVmX2Yf6Cz-QmZeFrY`,
+            file: '45.jpg',
+          },
+          {
+            id: `-NLVmo9djZQ5z7K6-2FR`,
+            file: '46.jpg',
+          },
+          {
+            id: `-NLVnNSCJmiiB6udP7Qp`,
+            file: '47.jpg',
+          },
+          {
+            id: `-NLVnS-8_H7y499MeJaX`,
+            file: '48.jpg',
+          },
+          {
+            id: `-NLVo9pWaFdkdk2sWMMB`,
+            file: '49.jpg',
+          },
+          {
+            id: `-NLVoNKDSR_ccn2Bu6id`,
+            file: '50.jpg',
+          },
+          {
+            id: `-NLVp8h7YRTaiXJRZy86`,
+            file: '51.jpg',
+          },
+          {
+            id: `-NLVpFYjom3gxDc5dS6C`,
+            file: '52.jpg',
+          },
+          {
+            id: `-NLVpaqxiID18D8HGCw5`,
+            file: '53.jpg',
+          },
+          {
+            id: `-NLVpoBI2Io5N1YrzmZt`,
+            file: '54.jpg',
+          },
+          {
+            id: `-NLVpsRgsbu7_AABxzZ0`,
+            file: '55.jpg',
+          },
+          {
+            id: `-NLVwqXhFX1p26GG7sI3`,
+            file: '54.jpg',
+          },
+          {
+            id: `-NLW0fAy5zokkQFf_qag`,
+            file: '56.jpg',
+          },
+          {
+            id: `-NLW5FotZNmN1xQMBD8l`,
+            file: '57.jpg',
+          },
+          {
+            id: `-NLW5h4vSALMw-YFeZ-D`,
+            file: '56.jpg',
+          },
+          {
+            id: `-NLW7attypSrCR2aaMg7`,
+            file: '58.jpg',
+          },
+          {
+            id: `-NLW8cXquHI-oMExu4Xy`,
+            file: '59.jpg',
+          },
+          {
+            id: `-NLW8mRk4TCGH8ZKtpuu`,
+            file: '58.jpg',
+          },
+          {
+            id: `-NLW9DQAUlGNmOzqPnwp`,
+            file: '60.jpg',
+          },
+          {
+            id: `-NLW9Tn39KvnmfY-sloK`,
+            file: '61.jpg',
+          },
+          {
+            id: `-NLW9_oyTIzo74uiV3XU`,
+            file: '60.jpg',
+          },
+          {
+            id: `-NLWCpdA3YOwEwJ_fbKq`,
+            file: '58.jpg',
+          },
+          {
+            id: `-NLWFQaL7Mc7LUd8wv_H`,
+            file: '56.jpg',
+          },
+          {
+            id: `-NLWGC_KlL-tTXaQBQft`,
+            file: '62.jpg',
+          },
+          {
+            id: `-NLWJzwkayQgYJVeBLCB`,
+            file: '63.jpg',
+          },
+          {
+            id: `-NLWKlfeniLWm5NKz8Yr`,
+            file: '56.jpg',
+          },
+          {
+            id: `-NLWLQYcHYIxB1gOWgkX`,
+            file: '64.jpg',
+          },
+          {
+            id: `-NLWNHn-B4nF_7cqBJM9`,
+            file: '65.jpg',
+          },
+          {
+            id: `-NLWOBMnjXXQ2f2zMzkY`,
+            file: '66.jpg',
+          },
+          {
+            id: `-NLWPQ8yS_ZCKU1fZWTG`,
+            file: '67.jpg',
+          },
+          {
+            id: `-NLWPoMtkIan9AjPAMnV`,
+            file: '68.jpg',
+          },
+          {
+            id: `-NLWQEzys8z1poAyQTlZ`,
+            file: '69.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `-NLVUpw_RglphOLHbSk9`,
+            file: '',
+          },
+          {
+            id: `-NLVWBcFk7GovsCgPO-r`,
+            file: '0.png',
+          },
+          {
+            id: `-NLVWpEs2Sn9VvjRY0tf`,
+            file: '1.png',
+          },
+          {
+            id: `-NLVWzVeQjs1UrPNhWCF`,
+            file: '2.png',
+          },
+          {
+            id: `-NLVX1vXpoJDMM8mik1n`,
+            file: '3.png',
+          },
+          {
+            id: `-NLVXkLANQwNkT3VtZxk`,
+            file: '4.png',
+          },
+          {
+            id: `-NLVYwuk89TuksuSB-KP`,
+            file: '5.png',
+          },
+          {
+            id: `-NLVZK0giPogVrBmYx_Y`,
+            file: '6.png',
+          },
+          {
+            id: `-NLVZaMlqpM4W3im2Bjb`,
+            file: '7.png',
+          },
+          {
+            id: `-NLV_bUvJFlzMNgEI3wn`,
+            file: '8.png',
+          },
+          {
+            id: `-NLVbUbqsASP16nR3vXZ`,
+            file: '9.png',
+          },
+          {
+            id: `-NLVcbTS3bEpcZ2R1LcC`,
+            file: '10.png',
+          },
+          {
+            id: `-NLVcvn0Ma9zSNlW7QDC`,
+            file: '11.png',
+          },
+          {
+            id: `-NLVdC215PwA7EpKf6E8`,
+            file: '12.png',
+          },
+          {
+            id: `-NLVe5dLnbzeqXTjfxxZ`,
+            file: '13.png',
+          },
+          {
+            id: `-NLVeMG-NcyPE7NHRi8S`,
+            file: '14.png',
+          },
+          {
+            id: `-NLVeWOWBBHJ19hqnGHU`,
+            file: '15.png',
+          },
+          {
+            id: `-NLVfg5LjSipZg3cUItj`,
+            file: '16.png',
+          },
+          {
+            id: `-NLVfprZBxKPdv09ZUeU`,
+            file: '7.png',
+          },
+          {
+            id: `-NLVgoTbGECEJT4vCTef`,
+            file: '8.png',
+          },
+          {
+            id: `-NLVhpTSHowOZ4tUDcxq`,
+            file: '9.png',
+          },
+          {
+            id: `-NLVjIIFV9EBevp4AIUm`,
+            file: '10.png',
+          },
+          {
+            id: `-NLVjO_kbJ9KinLvbw9d`,
+            file: '17.png',
+          },
+          {
+            id: `-NLVk8x8xMELr_0D4DOL`,
+            file: '18.png',
+          },
+          {
+            id: `-NLVkTC8NCQBbJpas4Hx`,
+            file: '19.png',
+          },
+          {
+            id: `-NLVkjrjeaihqQpiCXIH`,
+            file: '20.png',
+          },
+          {
+            id: `-NLVln3zIZfZGEyB4D3T`,
+            file: '21.png',
+          },
+          {
+            id: `-NLVlt_rXsnguvcD1ZKg`,
+            file: '22.png',
+          },
+          {
+            id: `-NLVm5bRpoFDBxZyPJrv`,
+            file: '7.png',
+          },
+          {
+            id: `-NLVnPFh6wqt3jFQ8s1F`,
+            file: '8.png',
+          },
+          {
+            id: `-NLVp8h7YRTaiXJRZy86`,
+            file: '',
+          },
+        ],
       },
     ],
   },
   {
     title: 'MU',
-    label: '모그레이브 대학의 학생들',
+    label: '모그레이브 대학의 학생들 (2020)',
     platform: 'roll20',
     npcs: [
       {
