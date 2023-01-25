@@ -46,28 +46,18 @@
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/UDT/images/41",
-                "output": "/campaigns/UDT/images/41"
+                "input": "../bookshelf/src/campaigns/UDT/images/42",
+                "output": "/campaigns/UDT/images/42"
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/COS/logs/",
-                "output": "/campaigns/COS/logs/"
+                "input": "../bookshelf/src/campaigns/ARC/logs/",
+                "output": "/campaigns/ARC/logs/"
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/COS/images/3",
-                "output": "/campaigns/COS/images/3"
-              },
-              {
-                "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/DCF/logs/",
-                "output": "/campaigns/DCF/logs/"
-              },
-              {
-                "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/DCF/images/2",
-                "output": "/campaigns/DCF/images/2"
+                "input": "../bookshelf/src/campaigns/ARC/images/1",
+                "output": "/campaigns/ARC/images/1"
               },
               "src/campaigns/SKT/logs/"
             ],
