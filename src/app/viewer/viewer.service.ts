@@ -38,6 +38,10 @@ export class ViewerService {
   async loadHtml(campaign: Campaign, log: Log) {
     this.log = ``;
     this.curTitle = campaign.title;
+    this.assetSrc = environment.production
+      ? campaign.assetSrc ??
+        `https://raw.githubusercontent.com/morgrave/bookshelf/main/src/campaigns`
+      : `${this.baseHref}campaigns`;
     this.curIndex = log.index;
     this.curImages = log.images ? log.images : [];
     this.curInterfaces = log.interfaces ? log.interfaces : [];
@@ -74,7 +78,9 @@ export class ViewerService {
     }
     const html = await this.http
       .get<string>(
-        `${this.assetSrc}/${campaign.title}/logs/${log.index}.html`,
+        `${this.assetSrc}/${campaign.title}/logs/${
+          log.index
+        }.html`,
         this.requestOptions
       )
       .pipe(
@@ -85,7 +91,10 @@ export class ViewerService {
               `<h4 class="message-sender([^<]*)chat-portrait-text-size-name-dnd5e"([^<]*)>`,
               'gi'
             );
-            log = log.replace(regexp, `<h4 class="message-sender chat-portrait-text-size-name">`);
+            log = log.replace(
+              regexp,
+              `<h4 class="message-sender chat-portrait-text-size-name">`
+            );
             // log = log.replace(/src="/gi, `src="http://193.123.242.178/`);
           }
           log = campaign.npcs?.reduce((log, npc) => {
@@ -94,11 +103,10 @@ export class ViewerService {
                 `(<img([^<]+)<h4 class="message-sender chat-portrait-text-size-name">${npc.name}</h4>)`,
                 'gi'
               );
-              return log
-                .replace(
-                  regexp,
-                  `<img src="${this.baseHref}assets/images/${npc.avatar}" width="36" height="36" class="message-portrait" style="border: none"/><h4 class="message-sender chat-portrait-text-size-name">${npc.name}</h4>`
-                );
+              return log.replace(
+                regexp,
+                `<img src="${this.baseHref}assets/images/${npc.avatar}" width="36" height="36" class="message-portrait" style="border: none"/><h4 class="message-sender chat-portrait-text-size-name">${npc.name}</h4>`
+              );
             } else {
               const regexp = new RegExp(
                 `<span class="by">${npc.name}:</span>*`,
