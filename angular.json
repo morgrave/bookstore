@@ -170,5 +170,8 @@
       }
     }
   },
-  "defaultProject": "bookstore"
+  "defaultProject": "bookstore",
+  "cli": {
+    "analytics": false
+  }
 }
