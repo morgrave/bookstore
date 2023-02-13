@@ -61673,6 +61673,7 @@ export const Campaigns = [
     title: 'ARC',
     label: '마법학교: 아르카닉스 (2023)',
     platform: 'roll20',
+    assetSrc: `https://raw.githubusercontent.com/Bongchidong1/bookshelf/master/src/campaigns`,
     npcs: [
     ],
     logs: [
