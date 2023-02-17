@@ -63926,7 +63926,7 @@ export const Campaigns = [
 
       {
         index: '3',
-        name: '3화, 수업에 범벅이 되어 죽어라',
+        name: '3화. 수업에 범벅이 되어 죽어라',
         images: [
           {
             id: `-NOJiuLXO2Qsp8yo-xR8`,
@@ -64377,7 +64377,7 @@ export const Campaigns = [
             file: '111.jpg',
           },
           {
-            id: `-NOKZyuO1RgS0iz9WAbU`,
+            id: `-NOKZxhyjeBEXc2PQrgs`,
             file: '112.jpg',
           },
         ],
