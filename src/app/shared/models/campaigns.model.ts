@@ -342,6 +342,22 @@ export const Campaigns = [
         name: '검제',
         avatar: 'npc_lob.png',
       },
+      {
+        name: '유우나',
+        avatar: 'npc_yuna2.png',
+      },
+      {
+        name: '조안나',
+        avatar: 'npc_joanna.png',
+      },
+      {
+        name: '이타미',
+        avatar: 'npc_itami.png',
+      },
+      {
+        name: '치게미',
+        avatar: 'npc_chigemi.png',
+      },
     ],
     logs: [
       {
@@ -15976,6 +15992,102 @@ export const Campaigns = [
             id: `sUrc0lsmi6JfW3hE`,
             file: '',
           },
+        ],
+      },
+      {
+        index: '48',
+        name: '48화: 우당탕탕! 온천 대작전!',
+        images: [
+          {
+            id: `aREY6ovCgZB1Fp32`,
+            file: '0.jpg',
+          },
+          {
+            id: `Qm3G16onPt5cAMGH`,
+            file: '1.jpg',
+          },
+          {
+            id: `sJHhCVfI65UbeMlY`,
+            file: '2.jpg',
+          },
+          {
+            id: `yeynUvHUQlqxJo2t`,
+            file: '3.jpg',
+          },
+          {
+            id: `GoukFHlhnjwdZyHO`,
+            file: '4.jpg',
+          },
+          {
+            id: `3XyYPQZJbt8YynIi`,
+            file: '5.jpg',
+          },
+          {
+            id: `r7zL6WZz7sAr3rAT`,
+            file: '6.jpg',
+          },
+          {
+            id: `dLkYlu2NvrhrVgU6`,
+            file: '1.jpg',
+          },
+          {
+            id: `H4nx7d85WkJ7qePS`,
+            file: '7.jpg',
+          },
+          {
+            id: `smlPoE3FXxBFerWe`,
+            file: '8.jpg',
+          },
+          {
+            id: `IhYvXRU36og1Uktu`,
+            file: '9.jpg',
+          },
+          {
+            id: `PRnODSiydxV8hGFH`,
+            file: '10.jpg',
+          },
+          {
+            id: `97nQU0qAgHw7fPSN`,
+            file: '11.jpg',
+          },
+          {
+            id: `btsh8wyQ6VDMfury`,
+            file: '12.jpg',
+          },
+          {
+            id: `z8sfvMXhpLPYOMe3`,
+            file: '13.jpg',
+          },
+          {
+            id: `g8y2wuJeC1Uhf3Dh`,
+            file: '14.jpg',
+          },
+          {
+            id: `WvadaL20mVzvhiQr`,
+            file: '15.jpg',
+          },
+          {
+            id: `5Qe9AMWmKPE7EFfU`,
+            file: '16.jpg',
+          },
+          {
+            id: `0t4tIg3W2EgPOqRU`,
+            file: '17.jpg',
+          },
+          {
+            id: `BI7UNNGFGaV5pqJi`,
+            file: '18.jpg',
+          },
+          {
+            id: `7NNvyeYga6sm30Pi`,
+            file: '19.jpg',
+          },
+          {
+            id: `PkbZMMmgicwmsX2L`,
+            file: '20.jpg',
+          },
+        ],
+        interfaces: [
         ],
       },
     ]
