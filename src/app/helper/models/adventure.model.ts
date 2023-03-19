@@ -184,6 +184,12 @@ export const Outcomes = [
     special: true,
   },
   {
+    id: 'hab',
+    name: '하브의 몫',
+    value: 0,
+    special: true,
+  },
+  {
     id: 'elaydren',
     name: '엘라이드렌의 몫',
     value: 10,
