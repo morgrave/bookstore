@@ -70048,7 +70048,7 @@ export const Campaigns = [
 
       {
         index: '8',
-        name: '8화',
+        name: '8화. 옷을 벗고 책상에 엎드리렴',
         images: [
           {
             id: `-NR8Bqo6kRrTQv0r3xwc`,
