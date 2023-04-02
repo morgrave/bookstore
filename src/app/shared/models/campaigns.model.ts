@@ -52074,7 +52074,7 @@ export const Campaigns = [
             file: '67.jpg',
           },
           {
-            id: ``,
+            id: `-NQJsfzzw8IaFoiEQTzx`,
             file: '68.jpg',
           },
         ],
@@ -52155,6 +52155,38 @@ export const Campaigns = [
             id: `-NQJWL-5iHHJlZiPBWC6`,
             file: '',
           },
+        ],
+      },
+      {
+        index: '72.5',
+        name: '72.5화',
+        images: [
+          {
+            id: `-NQs7i2dmfRWf3Yl2oNR`,
+            file: '0.jpg',
+          },
+          {
+            id: `-NQs9ROds6SV9632bXjd`,
+            file: '1.jpg',
+          },
+          {
+            id: `-NQs9fVQYrBQ2jwXGzE8`,
+            file: '2.jpg',
+          },
+          {
+            id: `-NQsH5D6bHzAgHMv85TH`,
+            file: '0.jpg',
+          },
+          {
+            id: `-NQsIB-U35HzzbybYtVa`,
+            file: '2.jpg',
+          },
+          {
+            id: `-NQsMmow-8GxB8_ZBoue`,
+            file: '3.jpg',
+          },
+        ],
+        interfaces: [
         ],
       },
     ]
