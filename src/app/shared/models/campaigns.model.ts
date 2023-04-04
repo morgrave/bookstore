@@ -16654,6 +16654,66 @@ export const Campaigns = [
           },
         ],
       },
+      {
+        index: '51',
+        name: '51화: 우당탕탕! 졸업식 대작전!',
+        images: [
+          {
+            id: `0R8qbMppHemFBsvq`,
+            file: '0.jpg',
+          },
+          {
+            id: `E15TPxpfpdsYTkkJ`,
+            file: '1.jpg',
+          },
+          {
+            id: `YfQ10qmrGvf9LA36`,
+            file: '2.jpg',
+          },
+          {
+            id: `GqwVxYMPUOiFHv9W`,
+            file: '3.jpg',
+          },
+          {
+            id: `nrlThDcC1aYFsyWf`,
+            file: '4.jpg',
+          },
+          {
+            id: `5eEDLB2kKPWyWk4x`,
+            file: '5.jpg',
+          },
+          {
+            id: `1N34do3oPEtNiQON`,
+            file: '6.jpg',
+          },
+          {
+            id: `gs9h6o38xXx4JWJg`,
+            file: '7.jpg',
+          },
+          {
+            id: `BpVyNi9g0bFBFg9b`,
+            file: '8.jpg',
+          },
+          {
+            id: `NBHDeyTfBZ7IZTgr`,
+            file: '9.jpg',
+          },
+          {
+            id: `AxEPEH2RCD6jSXCs`,
+            file: '8.jpg',
+          },
+          {
+            id: `WINEhqhNngjCzu52`,
+            file: '10.jpg',
+          },
+          {
+            id: `Sf72hknTuytnW0Vh`,
+            file: '0.jpg',
+          },
+        ],
+        interfaces: [
+        ],
+      },
     ]
   },
   {
