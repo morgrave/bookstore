@@ -66618,7 +66618,7 @@ export const Campaigns = [
         name: '1화. 반갑습니다, 새내기!',
         images: [
           {
-            id: `-NMcbkSxn8qLDlW6SZSr`,
+            id: `-NMcbtLWuXMfS9hrxQHU`,
             file: '1.jpg',
           },
           {
@@ -67040,7 +67040,7 @@ export const Campaigns = [
             file: '',
           },
           {
-            id: `-NMcbkSxn8qLDlW6SZSr`,
+            id: `-NMcbtLWuXMfS9hrxQHU`,
             file: '0.png',
           },
           {
