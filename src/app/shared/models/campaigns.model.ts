@@ -65374,14 +65374,14 @@ export const Campaigns = [
   },
   {
     title: 'DCF',
-    label: '불꽃을 덮는 어둠 (2023)',
+    label: '웨이파인더 단편선 (2023)',
     platform: 'roll20',
     npcs: [
     ],
     logs: [
       {
         index: '1',
-        name: '1화',
+        name: '불꽃을 덮는 어둠 - 1',
         images: [
           {
             id: `-NLEXfSEU0oCzztm1XkU`,
@@ -65773,7 +65773,7 @@ export const Campaigns = [
       },
       {
         index: '2',
-        name: '2화',
+        name: '불꽃을 덮는 어둠 - 2',
         images: [
           {
             id: `-NLVUpw_RglphOLHbSk9`,
@@ -66217,7 +66217,7 @@ export const Campaigns = [
       },
       {
         index: '3',
-        name: '3화',
+        name: '불꽃을 덮는 어둠 - 3(完)',
         images: [
           {
             id: `-NM3XbbD1Jsx8OaA2o0J`,
