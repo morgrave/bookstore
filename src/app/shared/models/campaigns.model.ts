@@ -409,6 +409,14 @@ export const Campaigns = [
       {
         name: '소드짱',
         avatar: 'npc_swordchan.png',
+      },
+      {
+        name: '렐 이르 위난',
+        avatar: 'npc_wrel.png',
+      },
+      {
+        name: '레이 이르 위난',
+        avatar: 'npc_wrey.png',
       }
     ],
     logs: [
@@ -16712,6 +16720,246 @@ export const Campaigns = [
           },
         ],
         interfaces: [
+        ],
+      },
+      {
+        index: '52',
+        name: '52화: 우당탕탕! 왕녀자매 등장!',
+        images: [
+          {
+            id: `PgXpTe81oQlPgTYS`,
+            file: '0.jpg',
+          },
+          {
+            id: `5XFkwebixDsOm8dJ`,
+            file: '1.jpg',
+          },
+          {
+            id: `NYTyKXzQRY2pF9Zt`,
+            file: '2.jpg',
+          },
+          {
+            id: `wx1L6FXvYs18Apb1`,
+            file: '3.jpg',
+          },
+          {
+            id: `6Mp0MQ14aLlcKzk7`,
+            file: '4.jpg',
+          },
+          {
+            id: `KJ4Ellnr00W8ER3H`,
+            file: '5.jpg',
+          },
+          {
+            id: `MuNMlfcpPR0Wp6Rr`,
+            file: '6.jpg',
+          },
+          {
+            id: `HUnAgRR8QWkDzr0x`,
+            file: '0.jpg',
+          },
+          {
+            id: `2H45ttTy1vVUfeHP`,
+            file: '7.jpg',
+          },
+          {
+            id: `ixCgZ8qmoNMk0POa`,
+            file: '8.jpg',
+          },
+          {
+            id: `JqE8mVGoj78RkTEt`,
+            file: '9.jpg',
+          },
+          {
+            id: `aoNLbNiZQzGo3W1n`,
+            file: '10.jpg',
+          },
+          {
+            id: `bPQImIzA10XtncHN`,
+            file: '0.jpg',
+          },
+          {
+            id: `0jjEHVmeD6sO8VKY`,
+            file: '11.jpg',
+          },
+          {
+            id: `OwcHSYoHaPexbMaR`,
+            file: '12.jpg',
+          },
+          {
+            id: `YVYGvxOGdlxaYh2Q`,
+            file: '13.jpg',
+          },
+          {
+            id: `6epkGciNzlGsbfkD`,
+            file: '14.jpg',
+          },
+          {
+            id: `3rZeuzF4QtLd3nyd`,
+            file: '15.jpg',
+          },
+          {
+            id: `Sx0XDXI5CSm5E6rj`,
+            file: '16.jpg',
+          },
+          {
+            id: `tHdVLePicEmhd4hT`,
+            file: '17.jpg',
+          },
+          {
+            id: `XqqXKLiiefUP7IkQ`,
+            file: '18.jpg',
+          },
+          {
+            id: `QhDgZy4ZpSHZekrU`,
+            file: '19.jpg',
+          },
+          {
+            id: `ppLKgN8ZYSX1fhqS`,
+            file: '20.jpg',
+          },
+          {
+            id: `kVgQMdFxfWJdpTld`,
+            file: '21.jpg',
+          },
+          {
+            id: `EHkefVhWTfYhCh6C`,
+            file: '22.jpg',
+          },
+          {
+            id: `kFXsNzprNNHatBql`,
+            file: '23.jpg',
+          },
+          {
+            id: `PhLka2UCKmktFjFJ`,
+            file: '24.jpg',
+          },
+          {
+            id: `cwhn2ECURz7myfg2`,
+            file: '25.jpg',
+          },
+          {
+            id: `eN3yoVPgc1gWYF0T`,
+            file: '26.jpg',
+          },
+          {
+            id: `1I7bW4zyDP8oyUR3`,
+            file: '27.jpg',
+          },
+          {
+            id: `z03RlYH0EhoEsJC7`,
+            file: '28.jpg',
+          },
+          {
+            id: `a4GOvnVqfLFcwNz6`,
+            file: '29.jpg',
+          },
+          {
+            id: `Rml25OBLmYa2vvEN`,
+            file: '30.jpg',
+          },
+          {
+            id: `3vM0BAeLw3s8HEN8`,
+            file: '31.jpg',
+          },
+          {
+            id: `luP5E4ft0Wtgeq8p`,
+            file: '32.jpg',
+          },
+          {
+            id: `drcJHEqnvWYT3eEq`,
+            file: '33.jpg',
+          },
+          {
+            id: `lh68RBgmK8mVGpMv`,
+            file: '34.jpg',
+          },
+          {
+            id: `sTvOMGxtA0sdvUOO`,
+            file: '35.jpg',
+          },
+          {
+            id: `ZLQkb20EETQB2Qr5`,
+            file: '36.jpg',
+          },
+          {
+            id: `gOLmGNdHHxHT2tiP`,
+            file: '37.jpg',
+          },
+          {
+            id: `HhSrGhYbKhngiSgo`,
+            file: '38.jpg',
+          },
+          {
+            id: `2C4tdWddqO7j0V9t`,
+            file: '39.jpg',
+          },
+          {
+            id: `I94tJ4sgwEbWRaRU`,
+            file: '40.jpg',
+          },
+          {
+            id: `3AKZMdjzsm4C7Ai5`,
+            file: '41.jpg',
+          },
+          {
+            id: `YwsxBqenCtKeSQk2`,
+            file: '42.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `PgXpTe81oQlPgTYS`,
+            file: '',
+          },
+          {
+            id: `LNhLhp25sD71oDMJ`,
+            file: '0.png',
+          },
+          {
+            id: `C0ECynd13W94nuAF`,
+            file: '1.png',
+          },
+          {
+            id: `t5HXzfUGuxQb8PhZ`,
+            file: '2.png',
+          },
+          {
+            id: `0NdX96ZnBVtxqhRA`,
+            file: '3.png',
+          },
+          {
+            id: `raAC9nE2D6Yz1eGv`,
+            file: '4.png',
+          },
+          {
+            id: `yNMT1pCfdcXYqMRW`,
+            file: '5.png',
+          },
+          {
+            id: `SiEt8x6MwfbccPJz`,
+            file: '6.png',
+          },
+          {
+            id: `2FZEtdDysjxV4eTt`,
+            file: '7.png',
+          },
+          {
+            id: `lh68RBgmK8mVGpMv`,
+            file: '8.png',
+          },
+          {
+            id: `lJjASSVUyDakqd0o`,
+            file: '0.png',
+          },
+          {
+            id: `NyWHp9t7OR1Y2IOs`,
+            file: '1.png',
+          },
+          {
+            id: `6lAiQEjVQK2bTuIt`,
+            file: '',
+          },
         ],
       },
     ]
@@ -66203,7 +66451,7 @@ export const Campaigns = [
           },
         ],
       },
-      
+
       {
         index: '2',
         name: '불꽃을 덮는 어둠 - 2',
@@ -66648,7 +66896,7 @@ export const Campaigns = [
           },
         ],
       },
-      
+
       {
         index: '3',
         name: '불꽃을 덮는 어둠 - 3(完)',
