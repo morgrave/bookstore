@@ -55,12 +55,16 @@ export const Campaigns = [
         avatar: 'npc_siri.png',
       },
       {
-        name: '이온',
+        name: '이온  ',
         avatar: 'npc_ion.png',
       },
       {
         name: '이온 ',
         avatar: 'npc_ion2.png',
+      },
+      {
+        name: '이온',
+        avatar: 'npc_ion3.png',
       },
       {
         name: '유진',
