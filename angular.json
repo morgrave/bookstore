@@ -51,6 +51,16 @@
               },
               {
                 "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/DCF/logs/",
+                "output": "/campaigns/DCF/logs/"
+              },
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/DCF/images/4",
+                "output": "/campaigns/DCF/images/4"
+              },
+              {
+                "glob": "**/*.*",
                 "input": "../bookshelf/src/campaigns/ARC/logs/",
                 "output": "/campaigns/ARC/logs/"
               },
