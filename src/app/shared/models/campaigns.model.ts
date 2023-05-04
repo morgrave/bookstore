@@ -66272,6 +66272,7 @@ export const Campaigns = [
     title: 'DCF',
     label: '웨이파인더 단편선 (2023)',
     platform: 'roll20',
+    assetSrc: `https://raw.githubusercontent.com/Bongchidong1/bookshelf/master/src/campaigns`,
     npcs: [
     ],
     logs: [
