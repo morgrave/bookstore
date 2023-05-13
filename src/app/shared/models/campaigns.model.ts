@@ -17178,6 +17178,386 @@ export const Campaigns = [
           },
         ],
       },
+      {
+        index: '54',
+        name: '54화: 우당탕탕! 괴물사냥 대작전!',
+        images: [
+          {
+            id: ``,
+            file: '0.jpg',
+          },
+          {
+            id: ``,
+            file: '1.jpg',
+          },
+          {
+            id: ``,
+            file: '0.jpg',
+          },
+          {
+            id: ``,
+            file: '2.jpg',
+          },
+          {
+            id: ``,
+            file: '3.jpg',
+          },
+          {
+            id: ``,
+            file: '4.jpg',
+          },
+          {
+            id: ``,
+            file: '5.jpg',
+          },
+          {
+            id: ``,
+            file: '4.jpg',
+          },
+          {
+            id: ``,
+            file: '6.jpg',
+          },
+          {
+            id: ``,
+            file: '7.jpg',
+          },
+          {
+            id: ``,
+            file: '8.jpg',
+          },
+          {
+            id: ``,
+            file: '9.jpg',
+          },
+          {
+            id: ``,
+            file: '10.jpg',
+          },
+          {
+            id: ``,
+            file: '11.jpg',
+          },
+          {
+            id: ``,
+            file: '12.jpg',
+          },
+          {
+            id: ``,
+            file: '13.jpg',
+          },
+          {
+            id: ``,
+            file: '14.jpg',
+          },
+          {
+            id: ``,
+            file: '15.jpg',
+          },
+          {
+            id: ``,
+            file: '16.jpg',
+          },
+          {
+            id: ``,
+            file: '17.jpg',
+          },
+          {
+            id: ``,
+            file: '18.jpg',
+          },
+          {
+            id: ``,
+            file: '19.jpg',
+          },
+          {
+            id: ``,
+            file: '20.jpg',
+          },
+          {
+            id: ``,
+            file: '21.jpg',
+          },
+          {
+            id: ``,
+            file: '22.jpg',
+          },
+          {
+            id: ``,
+            file: '23.jpg',
+          },
+          {
+            id: ``,
+            file: '24.jpg',
+          },
+          {
+            id: ``,
+            file: '25.jpg',
+          },
+          {
+            id: ``,
+            file: '26.jpg',
+          },
+          {
+            id: ``,
+            file: '27.jpg',
+          },
+          {
+            id: ``,
+            file: '28.jpg',
+          },
+          {
+            id: ``,
+            file: '29.jpg',
+          },
+          {
+            id: ``,
+            file: '30.jpg',
+          },
+          {
+            id: ``,
+            file: '31.jpg',
+          },
+          {
+            id: ``,
+            file: '32.jpg',
+          },
+          {
+            id: ``,
+            file: '33.jpg',
+          },
+          {
+            id: ``,
+            file: '34.jpg',
+          },
+          {
+            id: ``,
+            file: '35.jpg',
+          },
+          {
+            id: ``,
+            file: '36.jpg',
+          },
+          {
+            id: ``,
+            file: '37.jpg',
+          },
+          {
+            id: ``,
+            file: '38.jpg',
+          },
+          {
+            id: ``,
+            file: '39.jpg',
+          },
+          {
+            id: ``,
+            file: '40.jpg',
+          },
+          {
+            id: ``,
+            file: '41.jpg',
+          },
+          {
+            id: ``,
+            file: '42.jpg',
+          },
+          {
+            id: ``,
+            file: '43.jpg',
+          },
+          {
+            id: ``,
+            file: '44.jpg',
+          },
+          {
+            id: ``,
+            file: '45.jpg',
+          },
+          {
+            id: ``,
+            file: '46.jpg',
+          },
+          {
+            id: ``,
+            file: '47.jpg',
+          },
+          {
+            id: ``,
+            file: '48.jpg',
+          },
+          {
+            id: ``,
+            file: '49.jpg',
+          },
+          {
+            id: ``,
+            file: '50.jpg',
+          },
+          {
+            id: ``,
+            file: '51.jpg',
+          },
+          {
+            id: ``,
+            file: '52.jpg',
+          },
+          {
+            id: ``,
+            file: '53.jpg',
+          },
+          {
+            id: ``,
+            file: '54.jpg',
+          },
+          {
+            id: ``,
+            file: '55.jpg',
+          },
+          {
+            id: ``,
+            file: '56.jpg',
+          },
+          {
+            id: ``,
+            file: '57.jpg',
+          },
+          {
+            id: ``,
+            file: '58.jpg',
+          },
+          {
+            id: ``,
+            file: '59.jpg',
+          },
+          {
+            id: ``,
+            file: '60.jpg',
+          },
+          {
+            id: ``,
+            file: '61.jpg',
+          },
+          {
+            id: ``,
+            file: '62.jpg',
+          },
+          {
+            id: ``,
+            file: '63.jpg',
+          },
+          {
+            id: ``,
+            file: '64.jpg',
+          },
+          {
+            id: ``,
+            file: '65.jpg',
+          },
+          {
+            id: ``,
+            file: '66.jpg',
+          },
+          {
+            id: ``,
+            file: '67.jpg',
+          },
+          {
+            id: ``,
+            file: '68.jpg',
+          },
+          {
+            id: ``,
+            file: '69.jpg',
+          },
+          {
+            id: ``,
+            file: '70.jpg',
+          },
+          {
+            id: ``,
+            file: '71.jpg',
+          },
+          {
+            id: ``,
+            file: '72.jpg',
+          },
+          {
+            id: ``,
+            file: '73.jpg',
+          },
+          {
+            id: ``,
+            file: '74.jpg',
+          },
+          {
+            id: ``,
+            file: '75.jpg',
+          },
+          {
+            id: ``,
+            file: '76.jpg',
+          },
+          {
+            id: ``,
+            file: '77.jpg',
+          },
+          {
+            id: ``,
+            file: '78.jpg',
+          },
+          {
+            id: ``,
+            file: '79.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: ``,
+            file: '',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '1.png',
+          },
+          {
+            id: ``,
+            file: '2.png',
+          },
+          {
+            id: ``,
+            file: '3.png',
+          },
+          {
+            id: ``,
+            file: '4.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '1.png',
+          },
+          {
+            id: ``,
+            file: '2.png',
+          },
+          {
+            id: ``,
+            file: '3.png',
+          },
+          {
+            id: ``,
+            file: '',
+          },
+        ],
+      },
     ]
   },
   {
