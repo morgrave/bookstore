@@ -79175,7 +79175,7 @@ export const Campaigns = [
 
       {
         index: '13',
-        name: '13화. ',
+        name: '13화. 출발! 엘딘 리치로',
         images: [
           {
             id: `-NVdLugqNPxEJRSkTc1u`,
