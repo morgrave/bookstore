@@ -430,6 +430,10 @@ export const Campaigns = [
         name: '루냐',
         avatar: 'npc_lunya.png',
       },
+      {
+        name: '아나 드 갈란다',
+        avatar: 'npc_ana.png',
+      },
     ],
     logs: [
       {
@@ -17652,6 +17656,42 @@ export const Campaigns = [
             id: `9PEolBM6hBTQEi6g`,
             file: '',
           },
+        ],
+      },
+      {
+        index: '55',
+        name: '55화: 우당탕탕! 선거운동 대작전!',
+        images: [
+          {
+            id: `yFb5WjRuEzW6k9w9`,
+            file: '0.jpg',
+          },
+          {
+            id: `O4XVOT4JWhqQjqix`,
+            file: '1.jpg',
+          },
+          {
+            id: `cqPBbemPXvdGziFw`,
+            file: '2.jpg',
+          },
+          {
+            id: `gq5G8Of357aDHNEu`,
+            file: '3.jpg',
+          },
+          {
+            id: `EBy2UCISNLTICd0J`,
+            file: '4.jpg',
+          },
+          {
+            id: `bjbGPQQ3AdxgcIE4`,
+            file: '5.jpg',
+          },
+          {
+            id: `XaTY4ywSSiraHpsn`,
+            file: '4.jpg',
+          },
+        ],
+        interfaces: [
         ],
       },
     ]
