@@ -54889,6 +54889,7 @@ export const Campaigns = [
           },
         ],
       },
+          {
     ]
   },
   {
