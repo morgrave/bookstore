@@ -18022,6 +18022,206 @@ export const Campaigns = [
           },
         ],
       },
+      {
+        index: '57',
+        name: '57화: 우당탕탕! 학생회장 대작전!',
+        images: [
+          {
+            id: `BA5c3Snq81nMZsHz`,
+            file: '0.jpg',
+          },
+          {
+            id: `pqJ6LW4SzkJ7vzCD`,
+            file: '1.jpg',
+          },
+          {
+            id: `oub9lN6bllJRPeqO`,
+            file: '2.jpg',
+          },
+          {
+            id: `uHXwfXFKeBK573y6`,
+            file: '3.jpg',
+          },
+          {
+            id: `yzatwkTtbBoZxH5I`,
+            file: '4.jpg',
+          },
+          {
+            id: `unED4OD5xVqnqEP9`,
+            file: '5.jpg',
+          },
+          {
+            id: `ZVUw0Yqm6Se47fDD`,
+            file: '6.jpg',
+          },
+          {
+            id: `vSrKcTSNeGRMwOB4`,
+            file: '7.jpg',
+          },
+          {
+            id: `nyBcD9UfkGdojzqk`,
+            file: '9.jpg',
+          },
+          {
+            id: `cxdI4EBTEahv334K`,
+            file: '8.jpg',
+          },
+          {
+            id: `pHrwaD9FuX7OArtj`,
+            file: '9.jpg',
+          },
+          {
+            id: `hrW6kdnl5sTkC38Z`,
+            file: '10.jpg',
+          },
+          {
+            id: `jOtiRFCdAkYvI0a7`,
+            file: '11.jpg',
+          },
+          {
+            id: `SWDZw7n3jChXvdHf`,
+            file: '12.jpg',
+          },
+          {
+            id: `6d5AuiztmpN9WIJ0`,
+            file: '13.jpg',
+          },
+          {
+            id: `QsIP7nAp3ii4o2YG`,
+            file: '14.jpg',
+          },
+          {
+            id: `r22UaecEvT7MVeRQ`,
+            file: '15.jpg',
+          },
+          {
+            id: `myExgkvIjbWdZmpU`,
+            file: '16.jpg',
+          },
+          {
+            id: `AnwDte8GyScI6mfV`,
+            file: '17.jpg',
+          },
+          {
+            id: `1T6srNYQJRumUuHJ`,
+            file: '18.jpg',
+          },
+          {
+            id: `YY7pc4VT3sXpDUTu`,
+            file: '19.jpg',
+          },
+          {
+            id: `iFXX8LSsOD3kxKP2`,
+            file: '20.jpg',
+          },
+          {
+            id: `ckorfmTFyDjVLyDd`,
+            file: '21.jpg',
+          },
+          {
+            id: `UptvKn6sBbw3mdqI`,
+            file: '22.jpg',
+          },
+          {
+            id: `Ljxqg8Vi10Bvg1yX`,
+            file: '23.jpg',
+          },
+          {
+            id: `UoslI44e6C2ElJDf`,
+            file: '24.jpg',
+          },
+          {
+            id: `J0qWlxkMR8ANiGF9`,
+            file: '25.jpg',
+          },
+          {
+            id: `aXbxxFv1IQwggwAZ`,
+            file: '26.jpg',
+          },
+          {
+            id: `iI0mGwWh9YPE3mYD`,
+            file: '27.jpg',
+          },
+          {
+            id: `0DEtu6RzSxc11bmY`,
+            file: '28.jpg',
+          },
+          {
+            id: `wjAjnTlyeeDv59IG`,
+            file: '29.jpg',
+          },
+          {
+            id: `B6OuifyHBpmqb3qu`,
+            file: '30.jpg',
+          },
+          {
+            id: `ChugTVtvWgXCc0oF`,
+            file: '31.jpg',
+          },
+          {
+            id: `lxc1bwgDFLtdxOaK`,
+            file: '32.jpg',
+          },
+          {
+            id: `OIT1DGfzsRz5rMV8`,
+            file: '33.jpg',
+          },
+          {
+            id: `6GZnmayPfiFk673z`,
+            file: '34.jpg',
+          },
+          {
+            id: `Y5WySJVa6itWSVEa`,
+            file: '35.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `BA5c3Snq81nMZsHz`,
+            file: '',
+          },
+          {
+            id: `bv57g6r2ry2H4yFC`,
+            file: '0.png',
+          },
+          {
+            id: `QauZeSoUdIziIodX`,
+            file: '1.png',
+          },
+          {
+            id: `t7F6TYnEOZxQd3wG`,
+            file: '2.png',
+          },
+          {
+            id: `B6OuifyHBpmqb3qu`,
+            file: '3.png',
+          },
+          {
+            id: `30Ugfut4qoUk7dF9`,
+            file: '4.png',
+          },
+          {
+            id: `k6iw2yWRkYZnBIom`,
+            file: '5.png',
+          },
+          {
+            id: `3yDaAiJRZxmQXKwq`,
+            file: '6.png',
+          },
+          {
+            id: `8V6WnYqUUuxxIVqV`,
+            file: '7.png',
+          },
+          {
+            id: `YPG87WYC0UOe0bwv`,
+            file: '8.png',
+          },
+          {
+            id: `wXsI122IjwwTmzcK`,
+            file: '',
+          },
+        ],
+      },
     ]
   },
   {
