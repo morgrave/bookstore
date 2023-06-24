@@ -160,6 +160,12 @@ export const Outcomes = [
     special: true,
   },
   {
+    id: 'saphi',
+    name: '사피의 몫',
+    value: 0,
+    special: true,
+  },
+  {
     id: 'sasha',
     name: '사샤의 몫',
     value: 0,
