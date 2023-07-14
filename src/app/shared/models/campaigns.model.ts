@@ -88642,6 +88642,951 @@ export const Campaigns = [
           },
         ],
       },
+
+      {
+        index: '19',
+        name: '19화. 다가오는 학생회장 선거!',
+        images: [
+          {
+            id: `-N_8rXqSILgrPkQ84T8A`,
+            file: '0.jpg',
+          },
+          {
+            id: `-N_8sQoXnRzeIt8WZX0h`,
+            file: '1.jpg',
+          },
+          {
+            id: `-N_8syeEGlI2Cwf_R-Cf`,
+            file: '2.jpg',
+          },
+          {
+            id: `-N_8t2nmVFk-D9mdhYgM`,
+            file: '3.jpg',
+          },
+          {
+            id: `-N_8tSl8dtiAXBIbBppG`,
+            file: '4.jpg',
+          },
+          {
+            id: `-N_8uUZdI8ghGkrDzsRf`,
+            file: '5.jpg',
+          },
+          {
+            id: `-N_8upp--RwCoc5Q-h4R`,
+            file: '6.jpg',
+          },
+          {
+            id: `-N_8z1MmCHPEYFt9dCrb`,
+            file: '7.jpg',
+          },
+          {
+            id: `-N_8zgjTqHbdoEUArVCc`,
+            file: '8.jpg',
+          },
+          {
+            id: `-N_90Cz07K6m0oTVk4l0`,
+            file: '9.jpg',
+          },
+          {
+            id: `-N_90j6m-dm8uQ4gGr45`,
+            file: '10.jpg',
+          },
+          {
+            id: `-N_92KT2pzXVGp2nkHRF`,
+            file: '11.jpg',
+          },
+          {
+            id: `-N_92SKvhjk9Cjqebq23`,
+            file: '12.jpg',
+          },
+          {
+            id: `-N_92ZHEK8mGnLzlNouA`,
+            file: '13.jpg',
+          },
+          {
+            id: `-N_92fBLctlRC_CO2xKF`,
+            file: '14.jpg',
+          },
+          {
+            id: `-N_93GdSu-LYsSYbcmhq`,
+            file: '15.jpg',
+          },
+          {
+            id: `-N_94piURj7Y1Q7JERTe`,
+            file: '16.jpg',
+          },
+          {
+            id: `-N_95G8ORDWMB2KL8w9I`,
+            file: '17.jpg',
+          },
+          {
+            id: `-N_95MiDKQpha2kX9Y0T`,
+            file: '18.jpg',
+          },
+          {
+            id: `-N_95YMmHb60Wd6onW5c`,
+            file: '19.jpg',
+          },
+          {
+            id: `-N_96GzA4V-aZEZNH5SA`,
+            file: '20.jpg',
+          },
+          {
+            id: `-N_96xF24QWVf3dRGvZx`,
+            file: '21.jpg',
+          },
+          {
+            id: `-N_97LjJC_z2ZqrjSfcu`,
+            file: '22.jpg',
+          },
+          {
+            id: `-N_97a474TWNufZtWDJ2`,
+            file: '23.jpg',
+          },
+          {
+            id: `-N_97nVsMxNLYckUimK7`,
+            file: '24.jpg',
+          },
+          {
+            id: `-N_98UGicTualOPNFCV3`,
+            file: '25.jpg',
+          },
+          {
+            id: `-N_98igB2MjCaKAaDTWT`,
+            file: '26.jpg',
+          },
+          {
+            id: `-N_9952Wome7cB9KVTKH`,
+            file: '27.jpg',
+          },
+          {
+            id: `-N_999mPUmKTTSbdOvA3`,
+            file: '28.jpg',
+          },
+          {
+            id: `-N_99MS2x16humxUNyNi`,
+            file: '29.jpg',
+          },
+          {
+            id: `-N_99Q2Nwzrfia5C9ky7`,
+            file: '30.jpg',
+          },
+          {
+            id: `-N_99VF66hcFcOS1JB1H`,
+            file: '31.jpg',
+          },
+          {
+            id: `-N_99v9umedr6K90175S`,
+            file: '32.jpg',
+          },
+          {
+            id: `-N_9AKP2LBSpeVYXCvgY`,
+            file: '33.jpg',
+          },
+          {
+            id: `-N_9AT1B0Hzhh6_XVOW4`,
+            file: '34.jpg',
+          },
+          {
+            id: `-N_9CJMBH6zj8ZQ8cPyR`,
+            file: '35.jpg',
+          },
+          {
+            id: `-N_9CY1w1HExa-Q97hfq`,
+            file: '36.jpg',
+          },
+          {
+            id: `-N_9Cp0u-xjv-m9U5Tgs`,
+            file: '37.jpg',
+          },
+          {
+            id: `-N_9DaIHFqleUo58wf2D`,
+            file: '38.jpg',
+          },
+          {
+            id: `-N_9DvjMfG3dbCoLqxD9`,
+            file: '39.jpg',
+          },
+          {
+            id: `-N_9EHPapur9lBYTzCf4`,
+            file: '40.jpg',
+          },
+          {
+            id: `-N_9EoFEB05V8l1HKsq6`,
+            file: '41.jpg',
+          },
+          {
+            id: `-N_9Ev5bZd_AOebYGuG2`,
+            file: '42.jpg',
+          },
+          {
+            id: `-N_9FelWkOjkmqsLL9tX`,
+            file: '43.jpg',
+          },
+          {
+            id: `-N_9Fqea08oRKn3Ty9nb`,
+            file: '44.jpg',
+          },
+          {
+            id: `-N_9GIuVyHyH-kB2ngVq`,
+            file: '45.jpg',
+          },
+          {
+            id: `-N_9GY1HzvIAGKtnWayq`,
+            file: '46.jpg',
+          },
+          {
+            id: `-N_9Gw06tTyY8Gk4QliJ`,
+            file: '47.jpg',
+          },
+          {
+            id: `-N_9HD_DI7HI6GmRp24Z`,
+            file: '48.jpg',
+          },
+          {
+            id: `-N_9HKW1ogLwOXYW6EuU`,
+            file: '49.jpg',
+          },
+          {
+            id: `-N_9H_PRUcUfc5qQcJvT`,
+            file: '50.jpg',
+          },
+          {
+            id: `-N_9HhYAEQvPq1ZSQGU7`,
+            file: '51.jpg',
+          },
+          {
+            id: `-N_9IZkolxFuksd2UcKS`,
+            file: '52.jpg',
+          },
+          {
+            id: `-N_9Im6U5P0pyzT1N0fJ`,
+            file: '53.jpg',
+          },
+          {
+            id: `-N_9JP3hBigjy6zebJhv`,
+            file: '54.jpg',
+          },
+          {
+            id: `-N_9KoUx0JTW_PbqUp9z`,
+            file: '55.jpg',
+          },
+          {
+            id: `-N_9KvrzUVxb6MguaUT9`,
+            file: '56.jpg',
+          },
+          {
+            id: `-N_9LY1uK9nSl0z-_f3a`,
+            file: '57.jpg',
+          },
+          {
+            id: `-N_9M9ZBRcqUbE9nzk9O`,
+            file: '58.jpg',
+          },
+          {
+            id: `-N_9MJ2-Tqzsll4D58rU`,
+            file: '59.jpg',
+          },
+          {
+            id: `-N_9NEes-Uj81rlfP4Zp`,
+            file: '60.jpg',
+          },
+          {
+            id: `-N_9NJslzMtPRMwmnHIA`,
+            file: '61.jpg',
+          },
+          {
+            id: `-N_9OF3hQfEhFBjzTB7R`,
+            file: '62.jpg',
+          },
+          {
+            id: `-N_9OaOssG88Z0NeypEh`,
+            file: '63.jpg',
+          },
+          {
+            id: `-N_9P1srcKYFdzicwg-B`,
+            file: '64.jpg',
+          },
+          {
+            id: `-N_9QKCLh81TRe4whwQg`,
+            file: '65.jpg',
+          },
+          {
+            id: `-N_9R6k2stmo1P0gJ5ey`,
+            file: '66.jpg',
+          },
+          {
+            id: `-N_9RH5JpBvgYOKkDeuD`,
+            file: '67.jpg',
+          },
+          {
+            id: `-N_9SKlXPW5faMgYjI-f`,
+            file: '68.jpg',
+          },
+          {
+            id: `-N_9Up2G-LUC-eY-_kHx`,
+            file: '69.jpg',
+          },
+          {
+            id: `-N_9V_PHf0urZrjIUt9A`,
+            file: '70.jpg',
+          },
+          {
+            id: `-N_9Vtoa0cPC_EgamkyQ`,
+            file: '71.jpg',
+          },
+          {
+            id: `-N_9W7I-FgcWWxXm2qVS`,
+            file: '72.jpg',
+          },
+          {
+            id: `-N_9WJrlvnPpWVEu5InH`,
+            file: '73.jpg',
+          },
+          {
+            id: `-N_9XRDlHJYNWEM84cHL`,
+            file: '74.jpg',
+          },
+          {
+            id: `-N_9XdI1sKCHQzPdlyFJ`,
+            file: '75.jpg',
+          },
+          {
+            id: `-N_9aPiMw3JeFwFuc0dm`,
+            file: '76.jpg',
+          },
+          {
+            id: ``,
+            file: '77.jpg',
+          },
+          {
+            id: ``,
+            file: '78.jpg',
+          },
+          {
+            id: ``,
+            file: '79.jpg',
+          },
+          {
+            id: ``,
+            file: '80.jpg',
+          },
+          {
+            id: ``,
+            file: '81.jpg',
+          },
+          {
+            id: ``,
+            file: '82.jpg',
+          },
+          {
+            id: ``,
+            file: '83.jpg',
+          },
+          {
+            id: ``,
+            file: '84.jpg',
+          },
+          {
+            id: ``,
+            file: '85.jpg',
+          },
+          {
+            id: ``,
+            file: '86.jpg',
+          },
+          {
+            id: ``,
+            file: '87.jpg',
+          },
+          {
+            id: ``,
+            file: '88.jpg',
+          },
+          {
+            id: ``,
+            file: '89.jpg',
+          },
+          {
+            id: ``,
+            file: '90.jpg',
+          },
+          {
+            id: ``,
+            file: '91.jpg',
+          },
+          {
+            id: ``,
+            file: '92.jpg',
+          },
+          {
+            id: ``,
+            file: '93.jpg',
+          },
+          {
+            id: ``,
+            file: '94.jpg',
+          },
+          {
+            id: ``,
+            file: '95.jpg',
+          },
+          {
+            id: ``,
+            file: '96.jpg',
+          },
+          {
+            id: ``,
+            file: '97.jpg',
+          },
+          {
+            id: ``,
+            file: '98.jpg',
+          },
+          {
+            id: ``,
+            file: '99.jpg',
+          },
+          {
+            id: ``,
+            file: '100.jpg',
+          },
+          {
+            id: ``,
+            file: '101.jpg',
+          },
+          {
+            id: ``,
+            file: '102.jpg',
+          },
+          {
+            id: ``,
+            file: '103.jpg',
+          },
+          {
+            id: ``,
+            file: '104.jpg',
+          },
+          {
+            id: ``,
+            file: '105.jpg',
+          },
+          {
+            id: ``,
+            file: '106.jpg',
+          },
+          {
+            id: ``,
+            file: '107.jpg',
+          },
+          {
+            id: ``,
+            file: '108.jpg',
+          },
+          {
+            id: ``,
+            file: '109.jpg',
+          },
+          {
+            id: ``,
+            file: '110.jpg',
+          },
+          {
+            id: ``,
+            file: '111.jpg',
+          },
+          {
+            id: ``,
+            file: '112.jpg',
+          },
+          {
+            id: ``,
+            file: '113.jpg',
+          },
+          {
+            id: ``,
+            file: '114.jpg',
+          },
+          {
+            id: ``,
+            file: '115.jpg',
+          },
+          {
+            id: ``,
+            file: '116.jpg',
+          },
+          {
+            id: ``,
+            file: '117.jpg',
+          },
+          {
+            id: ``,
+            file: '118.jpg',
+          },
+          {
+            id: ``,
+            file: '119.jpg',
+          },
+          {
+            id: ``,
+            file: '120.jpg',
+          },
+          {
+            id: ``,
+            file: '121.jpg',
+          },
+          {
+            id: ``,
+            file: '122.jpg',
+          },
+          {
+            id: ``,
+            file: '123.jpg',
+          },
+          {
+            id: ``,
+            file: '124.jpg',
+          },
+          {
+            id: ``,
+            file: '125.jpg',
+          },
+          {
+            id: ``,
+            file: '126.jpg',
+          },
+          {
+            id: ``,
+            file: '127.jpg',
+          },
+          {
+            id: ``,
+            file: '128.jpg',
+          },
+          {
+            id: ``,
+            file: '129.jpg',
+          },
+          {
+            id: ``,
+            file: '130.jpg',
+          },
+          {
+            id: ``,
+            file: '131.jpg',
+          },
+          {
+            id: ``,
+            file: '132.jpg',
+          },
+          {
+            id: ``,
+            file: '133.jpg',
+          },
+          {
+            id: ``,
+            file: '134.jpg',
+          },
+          {
+            id: ``,
+            file: '135.jpg',
+          },
+          {
+            id: ``,
+            file: '136.jpg',
+          },
+          {
+            id: ``,
+            file: '137.jpg',
+          },
+          {
+            id: ``,
+            file: '138.jpg',
+          },
+          {
+            id: ``,
+            file: '139.jpg',
+          },
+          {
+            id: ``,
+            file: '140.jpg',
+          },
+          {
+            id: ``,
+            file: '141.jpg',
+          },
+          {
+            id: ``,
+            file: '142.jpg',
+          },
+          {
+            id: ``,
+            file: '143.jpg',
+          },
+          {
+            id: ``,
+            file: '144.jpg',
+          },
+          {
+            id: ``,
+            file: '145.jpg',
+          },
+          {
+            id: ``,
+            file: '146.jpg',
+          },
+          {
+            id: ``,
+            file: '147.jpg',
+          },
+          {
+            id: ``,
+            file: '148.jpg',
+          },
+          {
+            id: ``,
+            file: '149.jpg',
+          },
+          {
+            id: ``,
+            file: '150.jpg',
+          },
+          {
+            id: ``,
+            file: '151.jpg',
+          },
+          {
+            id: ``,
+            file: '152.jpg',
+          },
+          {
+            id: ``,
+            file: '153.jpg',
+          },
+          {
+            id: ``,
+            file: '154.jpg',
+          },
+          {
+            id: ``,
+            file: '155.jpg',
+          },
+          {
+            id: ``,
+            file: '156.jpg',
+          },
+          {
+            id: ``,
+            file: '157.jpg',
+          },
+          {
+            id: ``,
+            file: '158.jpg',
+          },
+          {
+            id: ``,
+            file: '159.jpg',
+          },
+          {
+            id: ``,
+            file: '160.jpg',
+          },
+          {
+            id: ``,
+            file: '161.jpg',
+          },
+          {
+            id: ``,
+            file: '162.jpg',
+          },
+          {
+            id: ``,
+            file: '163.jpg',
+          },
+          {
+            id: ``,
+            file: '164.jpg',
+          },
+          {
+            id: ``,
+            file: '165.jpg',
+          },
+          {
+            id: ``,
+            file: '166.jpg',
+          },
+          {
+            id: ``,
+            file: '167.jpg',
+          },
+          {
+            id: ``,
+            file: '168.jpg',
+          },
+          {
+            id: ``,
+            file: '169.jpg',
+          },
+          {
+            id: ``,
+            file: '170.jpg',
+          },
+          {
+            id: ``,
+            file: '171.jpg',
+          },
+          {
+            id: ``,
+            file: '172.jpg',
+          },
+          {
+            id: ``,
+            file: '173.jpg',
+          },
+          {
+            id: ``,
+            file: '174.jpg',
+          },
+          {
+            id: ``,
+            file: '175.jpg',
+          },
+          {
+            id: ``,
+            file: '176.jpg',
+          },
+          {
+            id: ``,
+            file: '177.jpg',
+          },
+          {
+            id: ``,
+            file: '178.jpg',
+          },
+          {
+            id: ``,
+            file: '179.jpg',
+          },
+          {
+            id: ``,
+            file: '180.jpg',
+          },
+          {
+            id: ``,
+            file: '181.jpg',
+          },
+          {
+            id: ``,
+            file: '182.jpg',
+          },
+          {
+            id: ``,
+            file: '183.jpg',
+          },
+          {
+            id: ``,
+            file: '184.jpg',
+          },
+          {
+            id: ``,
+            file: '185.jpg',
+          },
+          {
+            id: ``,
+            file: '186.jpg',
+          },
+          {
+            id: ``,
+            file: '187.jpg',
+          },
+          {
+            id: ``,
+            file: '188.jpg',
+          },
+          {
+            id: ``,
+            file: '189.jpg',
+          },
+          {
+            id: ``,
+            file: '190.jpg',
+          },
+          {
+            id: ``,
+            file: '191.jpg',
+          },
+          {
+            id: ``,
+            file: '192.jpg',
+          },
+          {
+            id: ``,
+            file: '193.jpg',
+          },
+          {
+            id: ``,
+            file: '194.jpg',
+          },
+          {
+            id: ``,
+            file: '195.jpg',
+          },
+          {
+            id: ``,
+            file: '196.jpg',
+          },
+          {
+            id: ``,
+            file: '197.jpg',
+          },
+          {
+            id: ``,
+            file: '198.jpg',
+          },
+          {
+            id: ``,
+            file: '199.jpg',
+          },
+          {
+            id: ``,
+            file: '200.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: ``,
+            file: '',
+          },
+          {
+            id: `-N_8rXqSILgrPkQ84T8A`,
+            file: '0.png',
+          },
+          {
+            id: `-N_9CB34YJpbII0r8Dz_`,
+            file: '1.png',
+          },
+          {
+            id: `-N_9CdasfkId6MYwEHSB`,
+            file: '0.png',
+          },
+          {
+            id: `-N_9HHK2NCBfKctOD8zj`,
+            file: '2.png',
+          },
+          {
+            id: `-N_9HyTb8Jsg2B_D8Kr9`,
+            file: '0.png',
+          },
+          {
+            id: `-N_9ZzehV-GI2ucFCDMf`,
+            file: '3.png',
+          },
+          {
+            id: `-N_9_XsKJR_zIobMPFgt`,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '4.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '5.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '6.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '7.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '8.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '9.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '10.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '11.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '12.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '13.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '14.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '15.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '',
+          },
+        ],
+      },
     ],
   },
   {
