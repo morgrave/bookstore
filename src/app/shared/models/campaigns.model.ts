@@ -454,6 +454,14 @@ export const Campaigns = [
         name: '투라 다칸',
         avatar: 'npc_tuura.png',
       },
+      {
+        name: '닌자선생 미즈류',
+        avatar: 'npc_mizryu.png',
+      },
+      {
+        name: '쿨 나예린',
+        avatar: 'npc_kole.png',
+      },
     ],
     logs: [
       {
@@ -19778,6 +19786,14 @@ export const Campaigns = [
             id: `TcKIxxUbrCyCM1ry`,
             file: '78.jpg',
           },
+          {
+            id: `7cdDsQviiY8fAgeJ`,
+            file: '79.jpg',
+          },
+          {
+            id: `Ct2Gezn3sdBY6H65`,
+            file: '80.jpg',
+          },
         ],
         interfaces: [
           {
@@ -20580,6 +20596,50 @@ export const Campaigns = [
             id: `ahrVWHC2LYryAlD2`,
             file: '',
           },
+        ],
+      },
+      {
+        index: '64',
+        name: '64화: 우당탕탕! 닌자학교 대작전!',
+        images: [
+          {
+            id: `bED6lABpL6DhJwgP`,
+            file: '0.jpg',
+          },
+          {
+            id: `dfh2U0MWcBU7L3ca`,
+            file: '1.jpg',
+          },
+          {
+            id: `RCN1Rvw67kt0vre7`,
+            file: '2.jpg',
+          },
+          {
+            id: `RZ4Ye4e0Rcghpk1E`,
+            file: '3.jpg',
+          },
+          {
+            id: `ZbGAmJjSyv8nHAzn`,
+            file: '4.jpg',
+          },
+          {
+            id: `cErAEiFYhK7pu4c1`,
+            file: '5.jpg',
+          },
+          {
+            id: `VgQSEDFm5X5s36j8`,
+            file: '6.jpg',
+          },
+          {
+            id: `e6ievGsSWvexgAh5`,
+            file: '7.jpg',
+          },
+          {
+            id: `Zrtqo6zNU3krWby4`,
+            file: '6.jpg',
+          },
+        ],
+        interfaces: [
         ],
       },
     ]
