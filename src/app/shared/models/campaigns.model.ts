@@ -21046,6 +21046,18 @@ export const Campaigns = [
           },
         ],
       },
+      {
+        index: '65.5',
+        name: '65.5화: 우당탕탕! 노움탈출 대작전!',
+        images: [
+          {
+            id: `Ft4IgPeAK6hCGd5y`,
+            file: '0.jpg',
+          },
+        ],
+        interfaces: [
+        ],
+      },
     ]
   },
   {
