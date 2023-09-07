@@ -494,6 +494,18 @@ export const Campaigns = [
         name: '사상최악의 워포지드',
         avatar: 'npc_blackj.png',
       },
+      {
+        name: '우르기',
+        avatar: 'npc_urgi.png',
+      },
+      {
+        name: '키리 스구루이',
+        avatar: 'npc_kiri.png',
+      },
+      {
+        name: '러스',
+        avatar: 'npc_ruus.png',
+      },
     ],
     logs: [
       {
@@ -21056,6 +21068,110 @@ export const Campaigns = [
           },
         ],
         interfaces: [
+        ],
+      },
+      {
+        index: '66',
+        name: '66화: 우당탕탕! 본가방문 대작전!',
+        images: [
+          {
+            id: `eCFYXpRr0roz9GGn`,
+            file: '0.jpg',
+          },
+          {
+            id: `r4uWrwk2IBBsNQLu`,
+            file: '1.jpg',
+          },
+          {
+            id: `226jHml2jK2A6cjJ`,
+            file: '2.jpg',
+          },
+          {
+            id: `Mtglp45cQ5MtDPri`,
+            file: '3.jpg',
+          },
+          {
+            id: `qH9j4NVvQBoi7asM`,
+            file: '4.jpg',
+          },
+          {
+            id: `duNgnQr0E3jKS3oT`,
+            file: '5.jpg',
+          },
+          {
+            id: `nK8uZIalj6btTwb6`,
+            file: '6.jpg',
+          },
+          {
+            id: `606yZKzXj5I1tmQk`,
+            file: '7.jpg',
+          },
+          {
+            id: `Tpmd0weT7TNngYWG`,
+            file: '8.jpg',
+          },
+          {
+            id: `o3Fb2tvUClRGFNmz`,
+            file: '9.jpg',
+          },
+          {
+            id: `CBG7ItCKGQxaKKU0`,
+            file: '10.jpg',
+          },
+          {
+            id: `1QXq0c4WRzpo0E7v`,
+            file: '11.jpg',
+          },
+          {
+            id: `z9QdYA4dWrKs7Wxd`,
+            file: '12.jpg',
+          },
+          {
+            id: `0uHUOiXiB5t3Bh3J`,
+            file: '13.jpg',
+          },
+          {
+            id: `IDKQ0pfaRVOLGZxz`,
+            file: '14.jpg',
+          },
+          {
+            id: `iysmg45ou4cEdzXq`,
+            file: '2.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `eCFYXpRr0roz9GGn`,
+            file: '',
+          },
+          {
+            id: `1HBSi9t989Ljl2kS`,
+            file: '0.png',
+          },
+          {
+            id: `pABzd2WMeFK3dpw3`,
+            file: '1.png',
+          },
+          {
+            id: `GPbbaYH6fCW7njZ2`,
+            file: '2.png',
+          },
+          {
+            id: `GfLG01y3zfVdqZSU`,
+            file: '3.png',
+          },
+          {
+            id: `tMbk2yUWQBkv13qP`,
+            file: '4.png',
+          },
+          {
+            id: `0b5Tfl5SgWtvgUCU`,
+            file: '5.png',
+          },
+          {
+            id: `IDKQ0pfaRVOLGZxz`,
+            file: '',
+          },
         ],
       },
     ]
