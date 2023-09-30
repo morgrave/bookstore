@@ -75,12 +75,20 @@ export const Campaigns = [
         avatar: 'npc_eugi2.png',
       },
       {
+        name: '유진  ',
+        avatar: 'npc_eugi3.png',
+      },
+      {
         name: '블랙잭',
         avatar: 'npc_blackj.png',
       },
       {
         name: '블랙잭 ',
         avatar: 'npc_blackj2.png',
+      },
+      {
+        name: '블랙잭  ',
+        avatar: 'npc_blackj3.png',
       },
       {
         name: '화염정령',
@@ -22730,6 +22738,246 @@ export const Campaigns = [
           },
           {
             id: `gvejQEoz33jE3Ec1`,
+            file: '',
+          },
+        ],
+      },
+      {
+        index: '69',
+        name: '69화: 우당탕탕! 동물농장 대작전!',
+        images: [
+          {
+            id: `chFLJUXxxQt1CKss`,
+            file: '0.jpg',
+          },
+          {
+            id: `NbGTNNNEVMzlpAAw`,
+            file: '1.jpg',
+          },
+          {
+            id: `Ov86phtKrGdnNOrm`,
+            file: '2.jpg',
+          },
+          {
+            id: `oudZJXMfph018uLQ`,
+            file: '3.jpg',
+          },
+          {
+            id: `veOjXZsz1ilL2xby`,
+            file: '4.jpg',
+          },
+          {
+            id: `KFmngrdrPxbnXapa`,
+            file: '5.jpg',
+          },
+          {
+            id: `XerLwqiICBicyyQX`,
+            file: '4.jpg',
+          },
+          {
+            id: `Uqqw4qRk33GwNDDa`,
+            file: '8.jpg',
+          },
+          {
+            id: `XF1WeqDBdGYN5wT0`,
+            file: '6.jpg',
+          },
+          {
+            id: `oy0vummRpGC5TerI`,
+            file: '7.jpg',
+          },
+          {
+            id: `IECnicNln5kFtN6e`,
+            file: '6.jpg',
+          },
+          {
+            id: `PeH9ZzoPXn88SjwD`,
+            file: '8.jpg',
+          },
+          {
+            id: `YPAbZnvnHUaRGGmb`,
+            file: '9.jpg',
+          },
+          {
+            id: `cCI8HxlTPtJV9tY3`,
+            file: '8.jpg',
+          },
+          {
+            id: `fRo7yTjoJlV6eXJH`,
+            file: '10.jpg',
+          },
+          {
+            id: `2cdFPxOcI3phbLgd`,
+            file: '11.jpg',
+          },
+          {
+            id: `XTnGqkQEWY6B8UC7`,
+            file: '12.jpg',
+          },
+          {
+            id: `8IBkaW1HizQEIcuP`,
+            file: '13.jpg',
+          },
+          {
+            id: `CNH0x4sEH7hkISGI`,
+            file: '14.jpg',
+          },
+          {
+            id: `vd1TtuF8TKJSLWtl`,
+            file: '15.jpg',
+          },
+          {
+            id: `wTKcOMMxi0Psyxvi`,
+            file: '16.jpg',
+          },
+          {
+            id: `HYzvqPxOITPOYLGu`,
+            file: '17.jpg',
+          },
+          {
+            id: `PSEq5fcPkqQMwy58`,
+            file: '18.jpg',
+          },
+          {
+            id: `xcLjnpqGSWSHQUb1`,
+            file: '19.jpg',
+          },
+          {
+            id: `IhBLTAj3c5oDgNbV`,
+            file: '20.jpg',
+          },
+          {
+            id: `ROQ8uFkN3JOxIrIO`,
+            file: '21.jpg',
+          },
+          {
+            id: `uzuLqg99ARyA3urF`,
+            file: '22.jpg',
+          },
+          {
+            id: `jkDY1PTnWkea1YBf`,
+            file: '23.jpg',
+          },
+          {
+            id: `HtN7bNIjgGolTjQo`,
+            file: '24.jpg',
+          },
+          {
+            id: `oSmVHbQkEhefHM3e`,
+            file: '25.jpg',
+          },
+          {
+            id: `Tz5635HcdHh5gAXl`,
+            file: '26.jpg',
+          },
+          {
+            id: `XWj468KBVOfeXpu7`,
+            file: '27.jpg',
+          },
+          {
+            id: `D3uBXLRhfPuSozS8`,
+            file: '28.jpg',
+          },
+          {
+            id: `pZoYHRZrPUrDwV5U`,
+            file: '29.jpg',
+          },
+          {
+            id: `4tyvAp9amHqFF2wW`,
+            file: '30.jpg',
+          },
+          {
+            id: `Sk8Vpo8weA5pE6NG`,
+            file: '31.jpg',
+          },
+          {
+            id: `6PrnLQ0zzokQCs7Y`,
+            file: '32.jpg',
+          },
+          {
+            id: `tlXB4OqdlxwdTsmj`,
+            file: '33.jpg',
+          },
+          {
+            id: `yX8ufLrgqKF0MuUz`,
+            file: '34.jpg',
+          },
+          {
+            id: `cMpvfXB1AJWXVNiT`,
+            file: '35.jpg',
+          },
+          {
+            id: `DlCCKr6SXc1QJkLR`,
+            file: '36.jpg',
+          },
+          {
+            id: `7ARj6C1n7QblmAIu`,
+            file: '37.jpg',
+          },
+          {
+            id: `F8MVFthx5tVpMBtE`,
+            file: '38.jpg',
+          },
+          {
+            id: `qJzIlxOhSDx2SuOK`,
+            file: '39.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `chFLJUXxxQt1CKss`,
+            file: '',
+          },
+          {
+            id: `jVWdyAw4ExwJHqi1`,
+            file: '0.png',
+          },
+          {
+            id: `AojCKN20JKNRyeA7`,
+            file: '1.png',
+          },
+          {
+            id: `ZfHeTDKHEhleFbMv`,
+            file: '2.png',
+          },
+          {
+            id: `V2zxywlHYbp0skW5`,
+            file: '3.png',
+          },
+          {
+            id: `3buRxpepSQrpBN4h`,
+            file: '4.png',
+          },
+          {
+            id: `FQFaG4zMZK8uReM3`,
+            file: '5.png',
+          },
+          {
+            id: `Z6bVaUCI7zGj8XN2`,
+            file: '6.png',
+          },
+          {
+            id: `NpwTaM4Bf6BP7WqJ`,
+            file: '7.png',
+          },
+          {
+            id: `gy2LEka2LNbVlvUm`,
+            file: '8.png',
+          },
+          {
+            id: `DxtxAMo0j8jILV7c`,
+            file: '0.png',
+          },
+          {
+            id: `VnwD5aQem21IUpoh`,
+            file: '1.png',
+          },
+          {
+            id: `BOJAVOev191WkSyb`,
+            file: '2.png',
+          },
+          {
+            id: `MGP8GxG0K9ez1Pgt`,
             file: '',
           },
         ],
@@ -61412,6 +61660,22 @@ export const Campaigns = [
       {
         index: '82',
         name: '82화'
+      },
+      {
+        index: '83',
+        name: '83화'
+      },
+      {
+        index: '84',
+        name: '84화'
+      },
+      {
+        index: '85',
+        name: '85화'
+      },
+      {
+        index: '86',
+        name: '86화'
       },
     ]
   },
