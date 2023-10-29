@@ -23598,6 +23598,166 @@ export const Campaigns = [
           },
         ],
       },
+      {
+        index: '72',
+        name: '72화: 우당탕탕! 검제토벌 대작전!',
+        images: [
+          {
+            id: `PiNV0ZZRD60cBYHH`,
+            file: '0.jpg',
+          },
+          {
+            id: `TFaJPwRwFWdNJUJN`,
+            file: '1.jpg',
+          },
+          {
+            id: `Riqzt98QU9OEOxeq`,
+            file: '2.jpg',
+          },
+          {
+            id: `D2hhLMhblk2DAsFW`,
+            file: '3.jpg',
+          },
+          {
+            id: `4RqFG9P5itog4EV1`,
+            file: '4.jpg',
+          },
+          {
+            id: `tJHn67WR9PlRIdNY`,
+            file: '5.jpg',
+          },
+          {
+            id: `gUTqK3Q3VqI18uM4`,
+            file: '6.jpg',
+          },
+          {
+            id: `vLqeogn2EQRTUXFN`,
+            file: '7.jpg',
+          },
+          {
+            id: `Qo9Xvs8RdXyxoq4B`,
+            file: '8.jpg',
+          },
+          {
+            id: `FLztlah6mofNTTwm`,
+            file: '9.jpg',
+          },
+          {
+            id: `aHR9VGUG6dmCHeLp`,
+            file: '10.jpg',
+          },
+          {
+            id: `aEWLk1YlfxswcQzB`,
+            file: '11.jpg',
+          },
+          {
+            id: `aTYeJRw9UsvXe6nv`,
+            file: '12.jpg',
+          },
+          {
+            id: `kGytMg3uNEdm6usV`,
+            file: '13.jpg',
+          },
+          {
+            id: `7AvGmX3JfGOnsDrr`,
+            file: '14.jpg',
+          },
+          {
+            id: `jaZSHTblOB6fosyb`,
+            file: '15.jpg',
+          },
+          {
+            id: `OoSP8zoAGEu2QE9x`,
+            file: '16.jpg',
+          },
+          {
+            id: `WZdQdTAcDz9gAYuA`,
+            file: '17.jpg',
+          },
+          {
+            id: `ACxJVpiezAgdCw9H`,
+            file: '18.jpg',
+          },
+          {
+            id: `yOe6wNf1aGGmDl1t`,
+            file: '19.jpg',
+          },
+          {
+            id: `SnF7bUMKAmwr5TVN`,
+            file: '20.jpg',
+          },
+          {
+            id: `IEGZDusc9kd8eF4I`,
+            file: '21.jpg',
+          },
+          {
+            id: `b0X54lHywjKL21xU`,
+            file: '22.jpg',
+          },
+          {
+            id: `whpNsGoqu4EfgrWr`,
+            file: '21.jpg',
+          },
+          {
+            id: `ii0YBdrl7gYA8CST`,
+            file: '23.jpg',
+          },
+          {
+            id: `f6OeBnRGpeKCllkt`,
+            file: '24.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `PiNV0ZZRD60cBYHH`,
+            file: '0.png',
+          },
+          {
+            id: `BLAlnzMg7jYaNBgb`,
+            file: '1.png',
+          },
+          {
+            id: `ER8937BcQSJz8YkG`,
+            file: '2.png',
+          },
+          {
+            id: `kxlZsCU1g0JcepHr`,
+            file: '3.png',
+          },
+          {
+            id: `ZQ60zj28VcKpzbAI`,
+            file: '4.png',
+          },
+          {
+            id: `5wAevoCxRlGf11zo`,
+            file: '5.png',
+          },
+          {
+            id: `QOdOR7rEAWhkTXOu`,
+            file: '6.png',
+          },
+          {
+            id: `ca7APdq8I6w7JvDt`,
+            file: '7.png',
+          },
+          {
+            id: `IL3JzQupY83w9qzc`,
+            file: '8.png',
+          },
+          {
+            id: `35ZSxhLoeP4Rszgx`,
+            file: '9.png',
+          },
+          {
+            id: `JzoRo52nMwGNyuRx`,
+            file: '0.png',
+          },
+          {
+            id: `6X2jEYUZCkPw0ITS`,
+            file: '',
+          },
+        ],
+      },
     ]
   },
   {
