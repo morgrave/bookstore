@@ -102443,7 +102443,7 @@ export const Campaigns = [
 
       {
         index: '26',
-        name: '26화. ',
+        name: '26화. 인과의 존재',
         images: [
           {
             id: `-NjqhZgxSP3MB3bE8Ilq`,
