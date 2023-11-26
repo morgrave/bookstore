@@ -62681,6 +62681,14 @@ export const Campaigns = [
         index: '89',
         name: '89화'
       },
+      {
+        index: '90',
+        name: '90화'
+      },
+      {
+        index: '91',
+        name: '91화'
+      },
     ]
   },
   {
