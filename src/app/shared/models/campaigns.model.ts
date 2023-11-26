@@ -530,6 +530,14 @@ export const Campaigns = [
         name: '기자 렌폴',
         avatar: 'npc_renpol.png',
       },
+      {
+        name: '아우랄라',
+        avatar: 'npc_aurala.png',
+      },
+      {
+        name: '위스키',
+        avatar: 'npc_whiskey.png',
+      },
     ],
     logs: [
       {
@@ -23754,6 +23762,214 @@ export const Campaigns = [
           },
           {
             id: `6X2jEYUZCkPw0ITS`,
+            file: '',
+          },
+        ],
+      },
+      {
+        index: '73',
+        name: '73화: 우당탕탕! 여왕님 대면 대작전!',
+        images: [
+          {
+            id: `gPzPdJrCyiTg0vWA`,
+            file: '0.jpg',
+          },
+          {
+            id: `aX70gR8dysuMmwY4`,
+            file: '1.jpg',
+          },
+          {
+            id: `qxdK8CHr1r9qYVvF`,
+            file: '0.jpg',
+          },
+          {
+            id: `zTkXWitKHFLhGNdl`,
+            file: '2.jpg',
+          },
+          {
+            id: `xaT89hs1Dw8XxraB`,
+            file: '3.jpg',
+          },
+          {
+            id: `MVWm42z5Wo1sUaVs`,
+            file: '2.jpg',
+          },
+          {
+            id: `FsLUGDxauP1KpOnu`,
+            file: '4.jpg',
+          },
+          {
+            id: `0GS2l3YsJyYhhpO1`,
+            file: '5.jpg',
+          },
+          {
+            id: `shxDUgZOLsCUfmGx`,
+            file: '6.jpg',
+          },
+          {
+            id: `DygtDvNp2EPFGiP6`,
+            file: '7.jpg',
+          },
+          {
+            id: `HTzf5Qllhs392jsA`,
+            file: '8.jpg',
+          },
+          {
+            id: `THGgE2WT3T93onH3`,
+            file: '9.jpg',
+          },
+          {
+            id: `6e8lwFwAnnUoSrvt`,
+            file: '10.jpg',
+          },
+          {
+            id: `s0IBUJ1ozTjFadyL`,
+            file: '11.jpg',
+          },
+          {
+            id: `XTRHhYRdbuzK5QJY`,
+            file: '12.jpg',
+          },
+          {
+            id: `I7IGTABIa3jrG6ru`,
+            file: '13.jpg',
+          },
+          {
+            id: `HzeOhUGcy5jxPwpn`,
+            file: '14.jpg',
+          },
+          {
+            id: `6RwmZwZufRZXpZGC`,
+            file: '15.jpg',
+          },
+          {
+            id: `Dw5jB8XmDeEu2IIg`,
+            file: '16.jpg',
+          },
+          {
+            id: `stmsHTTtXThnEntW`,
+            file: '17.jpg',
+          },
+          {
+            id: `MD09eivOqs8PcNJ7`,
+            file: '18.jpg',
+          },
+          {
+            id: `Z4pECau4peU1M8Q6`,
+            file: '19.jpg',
+          },
+          {
+            id: `tuMIedX2DIiGt1oH`,
+            file: '20.jpg',
+          },
+          {
+            id: `qnHSMXBq7W7zVKNT`,
+            file: '21.jpg',
+          },
+          {
+            id: `y1CiuY9nE85E0vYC`,
+            file: '22.jpg',
+          },
+          {
+            id: `Wvl4lYX76iG6L0cb`,
+            file: '23.jpg',
+          },
+          {
+            id: `AjyOd5w3NOEKnJvK`,
+            file: '24.jpg',
+          },
+          {
+            id: `tP5lrXJ4UhyXypi1`,
+            file: '25.jpg',
+          },
+          {
+            id: `yXFZ5IJbwurrdVKV`,
+            file: '26.jpg',
+          },
+          {
+            id: `enuPtYTUnhHyO1e2`,
+            file: '27.jpg',
+          },
+          {
+            id: `18OZMpq9H8dqU0N5`,
+            file: '28.jpg',
+          },
+          {
+            id: `zAvnPjrkwQ9JPOWj`,
+            file: '29.jpg',
+          },
+          {
+            id: `g1xf4rrtbzi5pVGJ`,
+            file: '30.jpg',
+          },
+          {
+            id: `GU38ObtT092OhRAz`,
+            file: '31.jpg',
+          },
+          {
+            id: `qlek6hceb9gRW5mw`,
+            file: '32.jpg',
+          },
+          {
+            id: `e1D2WbxcJqqnJK6e`,
+            file: '33.jpg',
+          },
+          {
+            id: `K2Wn2oynahmxM0aB`,
+            file: '34.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `gPzPdJrCyiTg0vWA`,
+            file: '',
+          },
+          {
+            id: `6FYXBQQcByY5Z535`,
+            file: '0.png',
+          },
+          {
+            id: `3Cdn4ZoDqXX3y8dG`,
+            file: '1.png',
+          },
+          {
+            id: `zx5hG92WEUmJyoMh`,
+            file: '2.png',
+          },
+          {
+            id: `yIhABDgLMLINWBwU`,
+            file: '3.png',
+          },
+          {
+            id: `XA2U12YYvel2EG6h`,
+            file: '4.png',
+          },
+          {
+            id: `biPZuvkWkq7KaB42`,
+            file: '5.png',
+          },
+          {
+            id: `Z4pECau4peU1M8Q6`,
+            file: '6.png',
+          },
+          {
+            id: `EOTkBCIt8RkeMtYa`,
+            file: '0.png',
+          },
+          {
+            id: `qmKLMx4HQBPwODC7`,
+            file: '1.png',
+          },
+          {
+            id: `L4lYKn1XX9JXnz4d`,
+            file: '2.png',
+          },
+          {
+            id: `vdKRmROIPXSETQOA`,
+            file: '3.png',
+          },
+          {
+            id: `VnK1n4IzTrYLTvo5`,
             file: '',
           },
         ],
