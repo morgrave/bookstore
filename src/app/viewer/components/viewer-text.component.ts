@@ -16,10 +16,10 @@ export class ViewerTextComponent implements OnInit {
 
   ngOnInit() {
     let node = document.createElement('script');
-    node.dataset["repo"]="morgrave/xperion"
-    node.dataset["repoId"]="R_kgDOIl1gMg"
+    node.dataset["repo"]="morgrave/bookstore"
+    node.dataset["repoId"]="R_kgDOIT561g"
     node.dataset["category"]="General"
-    node.dataset["categoryId"]="DIC_kwDOIl1gMs4CbrQG"
+    node.dataset["categoryId"]="DIC_kwDOIT561s4CbrQq"
     node.dataset["mapping"]="pathname"
     node.dataset["strict"]="0"
     node.dataset["reactionsEnabled"]="0"
