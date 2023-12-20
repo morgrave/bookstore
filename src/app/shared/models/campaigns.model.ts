@@ -546,6 +546,50 @@ export const Campaigns = [
         name: '라이거 이르 위난',
         avatar: 'npc_ryger.png',
       },
+      {
+        name: '파글파르',
+        avatar: 'npc_faglefar.png',
+      },
+      {
+        name: '테이쿠슬란',
+        avatar: 'npc_taiqus.png',
+      },
+      {
+        name: '벨리온',
+        avatar: 'npc_velion.png',
+      },
+      {
+        name: '상왕 바달리스',
+        avatar: 'npc_vadallia.png',
+      },
+      {
+        name: '보라넬 이르 위난',
+        avatar: 'npc_boranel.png.png',
+      },
+      {
+        name: '소라 카트리',
+        avatar: 'npc_katra.png',
+      },
+      {
+        name: '소라 마에냐',
+        avatar: 'npc_maenya.png',
+      },
+      {
+        name: '크로젠 추기경',
+        avatar: 'npc_krozen.png',
+      },
+      {
+        name: '세바스테스',
+        avatar: 'npc_sebastes.png',
+      },
+      {
+        name: '토를란',
+        avatar: 'npc_torlan.png',
+      },
+      {
+        name: '자엘라 다란',
+        avatar: 'npc_jaela.png',
+      },
     ],
     logs: [
       {
@@ -24190,6 +24234,138 @@ export const Campaigns = [
           },
           {
             id: `hxWYWeHZ0PYBxh92`,
+            file: '',
+          },
+        ],
+      },
+      {
+        index: '75',
+        name: '75화: 우당탕탕! 정상회담 대작전!',
+        images: [
+          {
+            id: `xskqfjOSQQlBte9M`,
+            file: '0.jpg',
+          },
+          {
+            id: `usliUCC7t7yPVidG`,
+            file: '1.jpg',
+          },
+          {
+            id: `3GyGlfKmiIAOP9ou`,
+            file: '2.jpg',
+          },
+          {
+            id: `XXN1sepXKm4aNgCz`,
+            file: '3.jpg',
+          },
+          {
+            id: `Su1jcvY592ZE7QfY`,
+            file: '4.jpg',
+          },
+          {
+            id: `mTwia5b9MZzyKM9N`,
+            file: '5.jpg',
+          },
+          {
+            id: `AFUBDDCs2dVu81RU`,
+            file: '6.jpg',
+          },
+          {
+            id: `pQRmpU9KsyZyfrVn`,
+            file: '7.jpg',
+          },
+          {
+            id: `ISyYPy8XPRik1tJm`,
+            file: '8.jpg',
+          },
+          {
+            id: `VlYj4BWnaofGlFg1`,
+            file: '9.jpg',
+          },
+          {
+            id: `xOm9baSTNK17H46C`,
+            file: '10.jpg',
+          },
+          {
+            id: `DogCzKSJ7cU8pv6G`,
+            file: '11.jpg',
+          },
+          {
+            id: `XAuTpMsljzDVpCKD`,
+            file: '12.jpg',
+          },
+          {
+            id: `js0pELCqNl1eJG6L`,
+            file: '13.jpg',
+          },
+          {
+            id: `JA7YjhyuQbELnPjT`,
+            file: '14.jpg',
+          },
+          {
+            id: `j5uUYXMzrjIeU1LG`,
+            file: '15.jpg',
+          },
+          {
+            id: `c2nEgXcWsovMKqjh`,
+            file: '16.jpg',
+          },
+          {
+            id: `pdHvrKVysrR4ennL`,
+            file: '17.jpg',
+          },
+          {
+            id: `DGxmIZdD0BzT7cE8`,
+            file: '18.jpg',
+          },
+          {
+            id: `u2sN9ACEuDft2kYZ`,
+            file: '19.jpg',
+          },
+          {
+            id: `bQaIZDEWJZqFhI13`,
+            file: '20.jpg',
+          },
+          {
+            id: `ppQ15lQsDTxw2qTW`,
+            file: '21.jpg',
+          },
+          {
+            id: `kv3NBjOjpZhlRb2o`,
+            file: '0.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `xskqfjOSQQlBte9M`,
+            file: '',
+          },
+          {
+            id: `JyqeOMUN97pko5ko`,
+            file: '0.png',
+          },
+          {
+            id: `fLsPlP7y9WxLhcZk`,
+            file: '1.png',
+          },
+          {
+            id: `59DZUQ8vd22Uvrvo`,
+            file: '2.png',
+          },
+          {
+            id: `js0pELCqNl1eJG6L`,
+            file: '3.png',
+          },
+          {
+            id: `wJDD2uVzmKPZUeec`,
+            file: '4.png',
+          },
+          {
+            id: `mc8g6gkFRJYgme6Z`,
+            file: '5.png',
+          },
+          {
+            id: `6o0o4h3u3tGaHgN7`,
             file: '',
           },
         ],
