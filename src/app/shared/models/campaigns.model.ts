@@ -559,15 +559,15 @@ export const Campaigns = [
         avatar: 'npc_velion.png',
       },
       {
-        name: '상왕 바달리스',
+        name: '상왕 바달리아',
         avatar: 'npc_vadallia.png',
       },
       {
         name: '보라넬 이르 위난',
-        avatar: 'npc_boranel.png.png',
+        avatar: 'npc_boranel.png',
       },
       {
-        name: '소라 카트리',
+        name: '소라 카트라',
         avatar: 'npc_katra.png',
       },
       {
