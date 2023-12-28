@@ -46,8 +46,8 @@
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/UDT/images/66",
-                "output": "/campaigns/UDT/images/66"
+                "input": "../bookshelf/src/campaigns/UDT/images/74",
+                "output": "/campaigns/UDT/images/74"
               },
               {
                 "glob": "**/*.*",
@@ -69,7 +69,12 @@
                 "input": "../bookshelf/src/campaigns/ARC/images/18",
                 "output": "/campaigns/ARC/images/18"
               },
-              "src/campaigns/SKT/logs/"
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/NJS/logs/",
+                "output": "/campaigns/NJS/logs/"
+              },
+              "src/campaigns/SKT/logs/",
             ],
             "styles": [
               "node_modules/@clr/ui/clr-ui.min.css",

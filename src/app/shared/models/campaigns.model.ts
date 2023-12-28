@@ -16,6 +16,7 @@ export interface Log {
   index: string;
   name: string;
   images?: Image[];
+  video?: string;
   interfaces?: Image[];
 }
 
@@ -106135,6 +106136,20 @@ export const Campaigns = [
       {
         index: 'S4',
         name: '외전 4화: 널 찾아낼 것이다',
+      },
+    ],
+  },
+  {
+    title: 'NJS',
+    label: '닌자 슬레이어 (2023)',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2023122801',
+        name: '1화: 트레이닝 그라운드',
+        video: 'https://www.youtube.com/embed/H8c3V9liaSU',
       },
     ],
   },

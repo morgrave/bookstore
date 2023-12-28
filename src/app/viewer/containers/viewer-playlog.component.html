@@ -9,6 +9,9 @@
     <div id="imgarea" class="imagearea" *ngIf="viewerService.curImages.length" (panstart)="saveLastPos()" (pan)="onPan($event)">
       <app-viewer-image [image]="viewerService.image"></app-viewer-image>
     </div>
+    <div id="imgarea" class="imagearea" *ngIf="viewerService.curVideo">
+      <iframe width="100%" height="100%" [src]="getVideo(viewerService.curVideo)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
     <div class="textarea" [style.width]="viewerService.curImages.length === 0 ? '100%' : textareaWidth" [style.min-width]="textareaWidth" (scroll)="onScroll($event)">
       <div class="expandbar" *ngIf="viewerService.curImages.length" (panstart)="saveLastTextAreaWidth()" (pan)="expandTextArea($event)"></div>
       <div id="mid" class="mid">

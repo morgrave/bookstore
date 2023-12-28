@@ -1,0 +1,45 @@
+.chat-log {
+  background: #202020 !important;
+}
+
+.MuiListItemAvatar-root {
+  min-width: 56px !important;
+}
+
+.MuiListItem-alignItemsFlexStart {
+  align-items: flex-start;
+}
+
+.MuiListItem-root {
+  width: 100%;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.MuiTypography-root {
+  margin-top: 0px !important;
+}
+
+.MuiTypography-colorTextPrimary, .MuiListItemText-secondary {
+  white-space: initial !important;
+  color: #fff !important;
+}
+
+.MuiDivider-root {
+  color: #3B3B3B;
+}
+
+.sc-cTQhss img, .sc-olbas img, .sc-ehmTmK img, .MuiListItemAvatar-root img {
+  max-width: 40px;
+}
+
+.MuiListItem-root button {
+  display: none;
+}

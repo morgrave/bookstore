@@ -17,12 +17,14 @@ export class ViewerService {
   };
   scss: SafeHtml = ``;
   fvttscss: SafeHtml = ``;
+  ccfoliascss: SafeHtml = ``;
   log: SafeHtml = ``;
   image: string = ``;
   interface: string = ``;
   baseHref = this.locationStrategy.getBaseHref();
   curTitle = ``;
   curIndex = ``;
+  curVideo = ``;
   curImages: any[] = [];
   curInterfaces: any[] = [];
   assetSrc = environment.production
@@ -44,6 +46,7 @@ export class ViewerService {
       : `${this.baseHref}campaigns`;
     this.curIndex = log.index;
     this.curImages = log.images ? log.images : [];
+    this.curVideo = log.video ? log.video : ``;
     this.curInterfaces = log.interfaces ? log.interfaces : [];
     if (this.curImages.length) {
       this.loadImage(0);
@@ -71,6 +74,20 @@ export class ViewerService {
         .pipe(
           map((res) => {
             this.fvttscss = this.sanitizer.bypassSecurityTrustHtml(res);
+            return;
+          })
+        )
+        .toPromise();
+    }
+    if (!this.ccfoliascss) {
+      await this.http
+        .get<string>(
+          `${this.baseHref}assets/common.ccfolia.scss`,
+          this.requestOptions
+        )
+        .pipe(
+          map((res) => {
+            this.ccfoliascss = this.sanitizer.bypassSecurityTrustHtml(res);
             return;
           })
         )
@@ -127,7 +144,7 @@ export class ViewerService {
                 `id`
               ) +
                 `<style>${
-                  campaign.platform === 'FVTT' ? this.fvttscss : this.scss
+                  campaign.platform === 'FVTT' ? this.fvttscss : (campaign.platform === 'ccfolia' ? this.ccfoliascss : this.scss)
                 }</style>`
             );
           } else {
@@ -144,7 +161,7 @@ export class ViewerService {
             document.body.removeChild(t);'>복사</button>`
               ) +
                 `<style>${
-                  campaign.platform === 'FVTT' ? this.fvttscss : this.scss
+                  campaign.platform === 'FVTT' ? this.fvttscss : (campaign.platform === 'ccfolia' ? this.ccfoliascss : this.scss)
                 }</style>`
             );
           }

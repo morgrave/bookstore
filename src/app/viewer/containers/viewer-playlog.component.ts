@@ -4,6 +4,7 @@ import { take } from 'rxjs/operators';
 import { Campaigns } from '../../shared/models/campaigns.model';
 import { ViewerService } from '../viewer.service';
 import { DOCUMENT } from '@angular/common';
+import { DomSanitizer } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-viewer-playlog',
@@ -22,6 +23,7 @@ export class ViewerPlaylogComponent implements OnInit {
     private router: Router,
     private route: ActivatedRoute,
     public viewerService: ViewerService,
+    private sanitizer: DomSanitizer,
   ) { }
 
   async ngOnInit() {
@@ -106,5 +108,9 @@ export class ViewerPlaylogComponent implements OnInit {
     return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
       navigator.userAgent
     );
+  }
+
+  getVideo(src: string) {
+    return this.sanitizer.bypassSecurityTrustResourceUrl(src);
   }
 }
