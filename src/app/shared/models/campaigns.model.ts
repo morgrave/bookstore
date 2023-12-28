@@ -24241,7 +24241,7 @@ export const Campaigns = [
       },
       {
         index: '75',
-        name: '75화: 우당탕탕! 정상회담 대작전!',
+        name: '75화: 우당탕탕! 정상회담 대작전! 1부',
         images: [
           {
             id: `xskqfjOSQQlBte9M`,
@@ -24369,6 +24369,22 @@ export const Campaigns = [
             id: `6o0o4h3u3tGaHgN7`,
             file: '',
           },
+        ],
+      },
+      {
+        index: '76',
+        name: '76화: 우당탕탕! 정상회담 대작전! 2부',
+        images: [
+          {
+            id: `UBUho2zRJ4pu2NVx`,
+            file: '0.jpg',
+          },
+          {
+            id: `c1ftxMDbB0aVxzjr`,
+            file: '1.jpg',
+          },
+        ],
+        interfaces: [
         ],
       },
     ]
