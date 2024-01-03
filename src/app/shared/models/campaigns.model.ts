@@ -106319,6 +106319,11 @@ export const Campaigns = [
         name: '1화: 트레이닝 그라운드',
         video: 'https://www.youtube.com/embed/H8c3V9liaSU',
       },
+      {
+        index: '2024010301',
+        name: '2화: 야쿠자의 사무소',
+        video: 'https://www.youtube.com/embed/ohUvOea8_W0',
+      },
     ],
   },
 ];
