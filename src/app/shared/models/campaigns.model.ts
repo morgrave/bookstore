@@ -106075,6 +106075,30 @@ export const Campaigns = [
     ],
   },
   {
+    title: 'NJS',
+    label: '닌자 슬레이어 (2023)',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2023122801',
+        name: '1화: 트레이닝 그라운드',
+        video: 'https://www.youtube.com/embed/H8c3V9liaSU',
+      },
+      {
+        index: '2024010301',
+        name: '2화: 야쿠자의 사무소',
+        video: 'https://www.youtube.com/embed/ohUvOea8_W0',
+      },
+      {
+        index: '2024010601',
+        name: '3화: 머신 오브 벤전스',
+        video: 'https://www.youtube.com/embed/LGqXqS7E0DA',
+      },
+    ],
+  },
+  {
     title: 'MU',
     label: '모그레이브 대학의 학생들 (2020)',
     platform: 'roll20',
@@ -106304,25 +106328,6 @@ export const Campaigns = [
       {
         index: 'S4',
         name: '외전 4화: 널 찾아낼 것이다',
-      },
-    ],
-  },
-  {
-    title: 'NJS',
-    label: '닌자 슬레이어 (2023)',
-    platform: 'ccfolia',
-    npcs: [
-    ],
-    logs: [
-      {
-        index: '2023122801',
-        name: '1화: 트레이닝 그라운드',
-        video: 'https://www.youtube.com/embed/H8c3V9liaSU',
-      },
-      {
-        index: '2024010301',
-        name: '2화: 야쿠자의 사무소',
-        video: 'https://www.youtube.com/embed/ohUvOea8_W0',
       },
     ],
   },
