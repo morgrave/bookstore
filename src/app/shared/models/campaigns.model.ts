@@ -591,6 +591,10 @@ export const Campaigns = [
         name: '자엘라 다란',
         avatar: 'npc_jaela.png',
       },
+      {
+        name: '졸 카이락',
+        avatar: 'npc_xorchylic.png',
+      },
     ],
     logs: [
       {
@@ -24539,7 +24543,6 @@ export const Campaigns = [
           },
         ],
       },
-
       {
         index: '78',
         name: '78화: 우당탕탕!  정상회담 대작전! 4부',
@@ -25062,6 +25065,62 @@ export const Campaigns = [
             id: `aC2O9hT3puiXPZBX`,
             file: '',
           },
+        ],
+      },
+      {
+        index: '79',
+        name: '79화: 우당탕탕!  학교복귀 대작전!',
+        images: [
+          {
+            id: `OUcBt6HFt531urTu`,
+            file: '0.jpg',
+          },
+          {
+            id: `33Fw17DEVNz5VRYe`,
+            file: '1.jpg',
+          },
+          {
+            id: `djveETmF45zYOWbq`,
+            file: '0.jpg',
+          },
+          {
+            id: `Ti3Fpe5TFVdFmLHc`,
+            file: '2.jpg',
+          },
+          {
+            id: `yOL4W5MMjEwwV4IM`,
+            file: '3.jpg',
+          },
+          {
+            id: `sjc5w29bGYy0eoBK`,
+            file: '4.jpg',
+          },
+          {
+            id: `d9EaUKy5brodBUkG`,
+            file: '5.jpg',
+          },
+          {
+            id: `KseN68UtEh4susHg`,
+            file: '6.jpg',
+          },
+          {
+            id: `grs4DNaq7rCHuCYD`,
+            file: '7.jpg',
+          },
+          {
+            id: `HWh5tdq08Vg6rBhh`,
+            file: '8.jpg',
+          },
+          {
+            id: `IWgQZqPe2W1DsTpb`,
+            file: '9.jpg',
+          },
+          {
+            id: `rrZsQeb3TzsMXorG`,
+            file: '0.jpg',
+          },
+        ],
+        interfaces: [
         ],
       },
     ]
