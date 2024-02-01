@@ -596,7 +596,7 @@ export const Campaigns = [
         avatar: 'npc_xorchylic.png',
       },
       {
-        name: '??? ',
+        name: '\?\?\? ',
         avatar: 'npc_aris.png',
       },
       {
