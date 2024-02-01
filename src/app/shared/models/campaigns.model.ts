@@ -595,6 +595,14 @@ export const Campaigns = [
         name: '졸 카이락',
         avatar: 'npc_xorchylic.png',
       },
+      {
+        name: '??? ',
+        avatar: 'npc_aris.png',
+      },
+      {
+        name: '앨리스 ',
+        avatar: 'npc_aris.png',
+      },
     ],
     logs: [
       {
@@ -25121,6 +25129,330 @@ export const Campaigns = [
           },
         ],
         interfaces: [
+        ],
+      },
+      {
+        index: '80',
+        name: '80화: 우당탕탕!  용광로 대작전!',
+        images: [
+          {
+            id: `tKkXBBkWdotlsmqX`,
+            file: '0.jpg',
+          },
+          {
+            id: `b1ltqxoa32SbcOdo`,
+            file: '1.jpg',
+          },
+          {
+            id: `2tORfEATyg9TpblO`,
+            file: '2.jpg',
+          },
+          {
+            id: `6Xlj4OTJ7CpiHag1`,
+            file: '3.jpg',
+          },
+          {
+            id: `QY0l8HCAnVhg8lnP`,
+            file: '4.jpg',
+          },
+          {
+            id: `6xIVN5gD2bN5luKZ`,
+            file: '5.jpg',
+          },
+          {
+            id: `7KJQbDsK1ePCC80F`,
+            file: '6.jpg',
+          },
+          {
+            id: `xrgdjvWEFhmL49UY`,
+            file: '7.jpg',
+          },
+          {
+            id: `PfBlmC5TQ5H46iNX`,
+            file: '8.jpg',
+          },
+          {
+            id: `5PGv6Zob3SchsOkq`,
+            file: '9.jpg',
+          },
+          {
+            id: `7dwhs53F8hF8WSo1`,
+            file: '10.jpg',
+          },
+          {
+            id: `vVQCaOIib41SLRYv`,
+            file: '11.jpg',
+          },
+          {
+            id: `XcEXU22cvpGNyWFH`,
+            file: '12.jpg',
+          },
+          {
+            id: `lkqyIrFQZ1F0X0DP`,
+            file: '13.jpg',
+          },
+          {
+            id: `wxNOBMTXscwyl4xP`,
+            file: '14.jpg',
+          },
+          {
+            id: `hhWkDRnQ8SKAodhP`,
+            file: '15.jpg',
+          },
+          {
+            id: `em99srcxYhrZAI9A`,
+            file: '16.jpg',
+          },
+          {
+            id: `mVD5iIA1NkYRNl5u`,
+            file: '17.jpg',
+          },
+          {
+            id: `KfMQLYvm5B0BL6hP`,
+            file: '18.jpg',
+          },
+          {
+            id: `SGjkIJ9bLm42gLEr`,
+            file: '19.jpg',
+          },
+          {
+            id: `JAcliPegX6KVsC3e`,
+            file: '20.jpg',
+          },
+          {
+            id: `hTrvRyXNKWKVgOOb`,
+            file: '21.jpg',
+          },
+          {
+            id: `cKG18vfnJ8fk17b2`,
+            file: '22.jpg',
+          },
+          {
+            id: `1iIVjR1aXOOo6t6P`,
+            file: '23.jpg',
+          },
+          {
+            id: `y22QCZ5LgPSOTfBz`,
+            file: '24.jpg',
+          },
+          {
+            id: `B9ImIuBNoV8ZpXaH`,
+            file: '25.jpg',
+          },
+          {
+            id: `La3DXUHspBsusUrM`,
+            file: '26.jpg',
+          },
+          {
+            id: `wwSstquvFFGo01T4`,
+            file: '27.jpg',
+          },
+          {
+            id: `WtaEgSgOdT38soWq`,
+            file: '28.jpg',
+          },
+          {
+            id: `YihYzvwUc3kqK17L`,
+            file: '29.jpg',
+          },
+          {
+            id: `iyOlpZG1QJH8IBo0`,
+            file: '30.jpg',
+          },
+          {
+            id: `l4BqbWhInrxYVVL2`,
+            file: '31.jpg',
+          },
+          {
+            id: `vJU0pzoZ5jhIzSz8`,
+            file: '32.jpg',
+          },
+          {
+            id: `AkW3WVOjOxpnb0pL`,
+            file: '33.jpg',
+          },
+          {
+            id: `X0Eg7XOAfxMgHbI3`,
+            file: '34.jpg',
+          },
+          {
+            id: `EIKLnBFNFMKD3S1A`,
+            file: '35.jpg',
+          },
+          {
+            id: `r4HEg0FtHhQ4zuHB`,
+            file: '36.jpg',
+          },
+          {
+            id: `BwBpknFR1NXplRtc`,
+            file: '37.jpg',
+          },
+          {
+            id: `ZGIOTfkJuvloYlDw`,
+            file: '38.jpg',
+          },
+          {
+            id: `9B6wg78TRNILQXYf`,
+            file: '39.jpg',
+          },
+          {
+            id: `DH43z0sRsyfn72yF`,
+            file: '40.jpg',
+          },
+          {
+            id: `OYaIUR4F5I9qdYU9`,
+            file: '41.jpg',
+          },
+          {
+            id: `XJkW3xQD7MpepUO0`,
+            file: '42.jpg',
+          },
+          {
+            id: `D7j62qQBfAszjcZv`,
+            file: '43.jpg',
+          },
+          {
+            id: `xPWbXKBXP3RHfFTV`,
+            file: '44.jpg',
+          },
+          {
+            id: `CiD5gmnK6QGM8Rzj`,
+            file: '45.jpg',
+          },
+          {
+            id: `FAlpir8PnK3E4UR7`,
+            file: '46.jpg',
+          },
+          {
+            id: `NT1IoHGSNbknLSTR`,
+            file: '47.jpg',
+          },
+          {
+            id: `jiMfnbbgsuddrJZn`,
+            file: '48.jpg',
+          },
+          {
+            id: `XlDFdWKX53d1Br4E`,
+            file: '49.jpg',
+          },
+          {
+            id: `ziE6FxfmiF8FQfWl`,
+            file: '50.jpg',
+          },
+          {
+            id: `5v6LBzEanqpXSJRs`,
+            file: '1.jpg',
+          },
+          {
+            id: `qAJlh0x1v2AP7hBf`,
+            file: '0.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `tKkXBBkWdotlsmqX`,
+            file: '',
+          },
+          {
+            id: `kiHip7Eg9r0eRhb5`,
+            file: '0.png',
+          },
+          {
+            id: `eEul7Ti5UERAmPJh`,
+            file: '1.png',
+          },
+          {
+            id: `vDJ14MXuWQeWIAkH`,
+            file: '2.png',
+          },
+          {
+            id: `txjDLhyyd56bRhxK`,
+            file: '3.png',
+          },
+          {
+            id: `J0YRSfrOK2kDgvJO`,
+            file: '4.png',
+          },
+          {
+            id: `wxNOBMTXscwyl4xP`,
+            file: '5.png',
+          },
+          {
+            id: `ocKz9P1kQOTr8Kns`,
+            file: '6.png',
+          },
+          {
+            id: `Gt6TfnVj1mLl7dBg`,
+            file: '7.png',
+          },
+          {
+            id: `hhWkDRnQ8SKAodhP`,
+            file: '8.png',
+          },
+          {
+            id: `zMkzhdVzaVEpHD21`,
+            file: '9.png',
+          },
+          {
+            id: `E33wwXl4mI4zsrvf`,
+            file: '10.png',
+          },
+          {
+            id: `c6toscKHY2fBDq3l`,
+            file: '11.png',
+          },
+          {
+            id: `yiNrm9JtLaeibyRU`,
+            file: '12.png',
+          },
+          {
+            id: `8gPku44zhlgadY4F`,
+            file: '13.png',
+          },
+          {
+            id: `LmkZh2HBfqcAkctc`,
+            file: '14.png',
+          },
+          {
+            id: `vG3r6qbiQ8SoOyT9`,
+            file: '15.png',
+          },
+          {
+            id: `t3yADAClPBcRc3Dl`,
+            file: '16.png',
+          },
+          {
+            id: `D1UTB1ZivShZdVAn`,
+            file: '17.png',
+          },
+          {
+            id: `OIEmTTWUNUonTH1y`,
+            file: '18.png',
+          },
+          {
+            id: `t3lb80fludfVTyZk`,
+            file: '19.png',
+          },
+          {
+            id: `IgWRs9ADvq0WzOJj`,
+            file: '20.png',
+          },
+          {
+            id: `h9OOahKMRbY1oyCL`,
+            file: '21.png',
+          },
+          {
+            id: `C46d65iQfKHhrtWH`,
+            file: '22.png',
+          },
+          {
+            id: `KeiXmOhbQM6tqzgS`,
+            file: '23.png',
+          },
+          {
+            id: `XlDFdWKX53d1Br4E`,
+            file: '',
+          },
         ],
       },
     ]
@@ -63845,6 +64177,22 @@ export const Campaigns = [
       {
         index: '93',
         name: '93화'
+      },
+      {
+        index: '94',
+        name: '94화'
+      },
+      {
+        index: '94.5',
+        name: '94.5화'
+      },
+      {
+        index: '95',
+        name: '95화'
+      },
+      {
+        index: '96',
+        name: '96화'
       },
     ]
   },
