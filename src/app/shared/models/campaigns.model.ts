@@ -599,6 +599,14 @@ export const Campaigns = [
         name: '앨리스 ',
         avatar: 'npc_aris.png',
       },
+      {
+        name: '자브라',
+        avatar: 'npc_jabra.png',
+      },
+      {
+        name: '세쉬카',
+        avatar: 'npc_sheshka.png',
+      },
     ],
     logs: [
       {
@@ -25449,6 +25457,50 @@ export const Campaigns = [
             id: `XlDFdWKX53d1Br4E`,
             file: '',
           },
+        ],
+      },
+      {
+        index: '81',
+        name: '81화: 우당탕탕! 우정 트레이닝 대작전!',
+        images: [
+          {
+            id: `znzeQ3R7ruWozdQl`,
+            file: '0.jpg',
+          },
+          {
+            id: `1xMdnX7zSPMUwuHs`,
+            file: '1.jpg',
+          },
+          {
+            id: `qRsJwdaqxoBockjg`,
+            file: '2.jpg',
+          },
+          {
+            id: `mTv1n7rzlV7gcTId`,
+            file: '1.jpg',
+          },
+          {
+            id: `bes3X4ajrL9gNQhL`,
+            file: '3.jpg',
+          },
+          {
+            id: `y9qJXV3DJGISYDXZ`,
+            file: '4.jpg',
+          },
+          {
+            id: `HPV93MGbvr7VwFmt`,
+            file: '5.jpg',
+          },
+          {
+            id: `rOZTC3XRYIGRCCjr`,
+            file: '6.jpg',
+          },
+          {
+            id: `3IWAFTT3PPIS450w`,
+            file: '7.jpg',
+          },
+        ],
+        interfaces: [
         ],
       },
     ]
