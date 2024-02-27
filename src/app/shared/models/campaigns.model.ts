@@ -25875,6 +25875,230 @@ export const Campaigns = [
           },
         ],
       },
+      {
+        index: '83',
+        name: '83화: 우당탕탕! 끝이 다가오는 대작전!',
+        images: [
+          {
+            id: `wgpOj8RqHLEVBBR5`,
+            file: '0.jpg',
+          },
+          {
+            id: `ZZyuZBfBPvpqLA0N`,
+            file: '1.jpg',
+          },
+          {
+            id: `qe3VnbjaFyJWr7xt`,
+            file: '2.jpg',
+          },
+          {
+            id: `zclYqJPmsvxrYQGG`,
+            file: '3.jpg',
+          },
+          {
+            id: `WfLF0BsYpeOTZXAz`,
+            file: '4.jpg',
+          },
+          {
+            id: `Dl2bBxesVgEk5ZgU`,
+            file: '5.jpg',
+          },
+          {
+            id: `nsBPhTFsLRCl1ZZ2`,
+            file: '6.jpg',
+          },
+          {
+            id: `SQQx90aoHisY1oC6`,
+            file: '7.jpg',
+          },
+          {
+            id: `3YSrWBY27dnj6Eap`,
+            file: '8.jpg',
+          },
+          {
+            id: `AJ4Uj9dBIVfxNvkR`,
+            file: '9.jpg',
+          },
+          {
+            id: `3eqWXIcXDOcGKESp`,
+            file: '10.jpg',
+          },
+          {
+            id: `49Dz3FOSLWbxF12t`,
+            file: '11.jpg',
+          },
+          {
+            id: `NkY0KXIousmU6AfV`,
+            file: '12.jpg',
+          },
+          {
+            id: `V3kOOtYmBTeLgzAN`,
+            file: '13.jpg',
+          },
+          {
+            id: `mCVKkYThTOJE3dcu`,
+            file: '2.jpg',
+          },
+          {
+            id: `YHnUqeaHABXFJ5Qi`,
+            file: '14.jpg',
+          },
+          {
+            id: `ckDOgumRpUk8c496`,
+            file: '15.jpg',
+          },
+          {
+            id: `Qs41GUuE1xtpqtP7`,
+            file: '16.jpg',
+          },
+          {
+            id: `PhfE0fiDjBSnx33L`,
+            file: '17.jpg',
+          },
+          {
+            id: `tC0XvXWgbZVDK9mR`,
+            file: '18.jpg',
+          },
+          {
+            id: `kxrLEuvgOd1TCEfN`,
+            file: '19.jpg',
+          },
+          {
+            id: `v4L00qI91c34mfBw`,
+            file: '20.jpg',
+          },
+          {
+            id: `fBtwkSdkff4voPwG`,
+            file: '21.jpg',
+          },
+          {
+            id: `bTXheS48P0SkaYZI`,
+            file: '22.jpg',
+          },
+          {
+            id: `uVI71DokJINlG3hb`,
+            file: '23.jpg',
+          },
+          {
+            id: `B8a2CyCzNCmR2i3y`,
+            file: '24.jpg',
+          },
+          {
+            id: `KzXmMGQzfu7Ri3ys`,
+            file: '25.jpg',
+          },
+          {
+            id: `NKhs5l9eH1DxhSAF`,
+            file: '26.jpg',
+          },
+          {
+            id: `iirGVpS4EOzmzhEN`,
+            file: '27.jpg',
+          },
+          {
+            id: `y4iaWazJcIXIG5g9`,
+            file: '28.jpg',
+          },
+          {
+            id: `SCUiNi0Np15l5sNW`,
+            file: '29.jpg',
+          },
+          {
+            id: `8oKpE62spRHh7X26`,
+            file: '30.jpg',
+          },
+          {
+            id: `RcuKH6t0SvcwuWVV`,
+            file: '14.jpg',
+          },
+          {
+            id: `slmLnREVGJxQws9J`,
+            file: '31.jpg',
+          },
+          {
+            id: `G3kR9oTHVp6cwKMH`,
+            file: '3.jpg',
+          },
+          {
+            id: `G3kR9oTHVp6cwKMH`,
+            file: '32.jpg',
+          },
+          {
+            id: `zY8f9qrvTUyzozU5`,
+            file: '33.jpg',
+          },
+          {
+            id: `IGmpeo3f4lNDrJTU`,
+            file: '34.jpg',
+          },
+          {
+            id: `rg7eniakx7pRB931`,
+            file: '35.jpg',
+          },
+          {
+            id: `skI0AC7oKJo84LZw`,
+            file: '36.jpg',
+          },
+          {
+            id: `3sDUaUya77MRVNAS`,
+            file: '37.jpg',
+          },
+          {
+            id: `nqexaDQw4LihrLPD`,
+            file: '38.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `wgpOj8RqHLEVBBR5`,
+            file: '',
+          },
+          {
+            id: `BI43UaNhazMNDQ35`,
+            file: '0.png',
+          },
+          {
+            id: `IUrMDQl2bTSypwRB`,
+            file: '1.png',
+          },
+          {
+            id: `jto3V3xU9zj7T4N2`,
+            file: '2.png',
+          },
+          {
+            id: `NkY0KXIousmU6AfV`,
+            file: '3.png',
+          },
+          {
+            id: `j9KxSJlC6wV8uKaW`,
+            file: '',
+          },
+          {
+            id: `WvYKedr8sTWghkTW`,
+            file: '4.png',
+          },
+          {
+            id: `X4LxGO3ppED5j88G`,
+            file: '5.png',
+          },
+          {
+            id: `xu9KPU9ajCEKLNrs`,
+            file: '6.png',
+          },
+          {
+            id: `B8a2CyCzNCmR2i3y`,
+            file: '7.png',
+          },
+          {
+            id: `vTnYwGQKVhtDHPNn`,
+            file: '8.png',
+          },
+          {
+            id: `8b2YTmYWtrCIPps3`,
+            file: '',
+          },
+        ],
+      },
     ]
   },
   {
