@@ -74,7 +74,17 @@
                 "input": "../bookshelf/src/campaigns/NJS/logs/",
                 "output": "/campaigns/NJS/logs/"
               },
-              "src/campaigns/SKT/logs/",
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/BBC/logs/",
+                "output": "/campaigns/BBC/logs/"
+              },
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/BBC/images/1",
+                "output": "/campaigns/BBC/images/1"
+              },
+              "src/campaigns/SKT/logs/"
             ],
             "styles": [
               "node_modules/@clr/ui/clr-ui.min.css",
