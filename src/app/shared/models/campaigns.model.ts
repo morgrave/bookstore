@@ -119965,6 +119965,42 @@ export const Campaigns = [
     platform: 'FVTT',
     assetSrc: `https://raw.githubusercontent.com/Bongchidong1/bookshelf/master/src/campaigns`,
     npcs: [
+      {
+        name: '약란',
+        avatar: 'bbc_yakran.png',
+      },
+      {
+        name: '중원맹 소녀',
+        avatar: 'bbc_hongryeon.png',
+      },
+      {
+        name: '중원맹주 방 홍련',
+        avatar: 'bbc_hongryeon.png',
+      },
+      {
+        name: '양린성 문 지기',
+        avatar: 'bbc_munjigi.png',
+      },
+      {
+        name: '양린성 문지기 문 지기',
+        avatar: 'bbc_munjigi.png',
+      },
+      {
+        name: '옥 어흥',
+        avatar: 'bbc_uheung.png',
+      },
+      {
+        name: '흑의인',
+        avatar: 'bbc_blackguy.png',
+      },
+      {
+        name: '인면호',
+        avatar: 'bbc_facetiger.png',
+      },
+      {
+        name: '남만맹승지주',
+        avatar: 'bbc_hellwasp.png',
+      },
     ],
     logs: [
       {
