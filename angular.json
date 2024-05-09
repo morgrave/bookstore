@@ -66,8 +66,8 @@
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/ARC/images/29",
-                "output": "/campaigns/ARC/images/29"
+                "input": "../bookshelf/src/campaigns/ARC/images/30",
+                "output": "/campaigns/ARC/images/30"
               },
               {
                 "glob": "**/*.*",
