@@ -120911,6 +120911,30 @@ export const Campaigns = [
     assetSrc: `https://raw.githubusercontent.com/Bongchidong1/bookshelf/master/src/campaigns`,
     npcs: [
       {
+        name: '지뢰남작',
+        avatar: 'bbc_baron.png',
+      },
+      {
+        name: '에델가르트',
+        avatar: 'bbc_ethelgard.png',
+      },
+      {
+        name: '은여린',
+        avatar: 'bbc_yeorin.png',
+      },
+      {
+        name: '남궁소영',
+        avatar: 'bbc_soyeong.png',
+      },
+      {
+        name: '요화',
+        avatar: 'bbc_yowha.png',
+      },
+      {
+        name: '묘월',
+        avatar: 'bbc_myowol.png',
+      },
+      {
         name: '약란',
         avatar: 'bbc_yakran.png',
       },
@@ -120937,6 +120961,22 @@ export const Campaigns = [
       {
         name: '흑의인',
         avatar: 'bbc_blackguy.png',
+      },
+      {
+        name: '공 선향',
+        avatar: 'bbc_seonhyang.png',
+      },
+      {
+        name: '양린성 주민',
+        avatar: 'bbc_extra2.png',
+      },
+      {
+        name: '양린성 주민 1',
+        avatar: 'bbc_extra1.png',
+      },
+      {
+        name: '양린성 주민 2',
+        avatar: 'bbc_extra2.png',
       },
       {
         name: '인면호',
