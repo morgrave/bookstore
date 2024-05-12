@@ -120979,12 +120979,40 @@ export const Campaigns = [
         avatar: 'bbc_extra2.png',
       },
       {
+        name: '중원맹 제자',
+        avatar: 'bbc_extra2.png',
+      },
+      {
         name: '인면호',
         avatar: 'bbc_facetiger.png',
       },
       {
         name: '남만맹승지주',
         avatar: 'bbc_hellwasp.png',
+      },
+      {
+        name: '강 청아',
+        avatar: 'bbc_cheonga.png',
+      },
+      {
+        name: '채 수하',
+        avatar: 'bbc_suha.png',
+      },
+      {
+        name: '위 단율',
+        avatar: 'bbc_danyul.png',
+      },
+      {
+        name: '현 채후',
+        avatar: 'bbc_chaehu.png',
+      },
+      {
+        name: '칠복산채 단원',
+        avatar: 'bbc_chilbok.png',
+      },
+      {
+        name: '채주 최 야영',
+        avatar: 'bbc_yayeong.png',
       },
     ],
     logs: [
