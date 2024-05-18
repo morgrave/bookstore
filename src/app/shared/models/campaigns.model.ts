@@ -119956,6 +119956,11 @@ export const Campaigns = [
         name: '3화: 머신 오브 벤전스',
         video: 'https://www.youtube.com/embed/LGqXqS7E0DA',
       },
+      {
+        index: '2024051801',
+        name: '닌자 슬레이어 ~ 패스트 애즈 라이트닝 콜드 애즈 윈터 ~',
+        video: 'https://www.youtube.com/embed/cuRnM3dB6pg',
+      },
     ],
   },
   {
