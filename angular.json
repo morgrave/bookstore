@@ -66,15 +66,25 @@
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/ARC/images/18",
-                "output": "/campaigns/ARC/images/18"
+                "input": "../bookshelf/src/campaigns/ARC/images/34",
+                "output": "/campaigns/ARC/images/34"
               },
               {
                 "glob": "**/*.*",
                 "input": "../bookshelf/src/campaigns/NJS/logs/",
                 "output": "/campaigns/NJS/logs/"
               },
-              "src/campaigns/SKT/logs/",
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/BBC/logs/",
+                "output": "/campaigns/BBC/logs/"
+              },
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/BBC/images/2",
+                "output": "/campaigns/BBC/images/2"
+              },
+              "src/campaigns/SKT/logs/"
             ],
             "styles": [
               "node_modules/@clr/ui/clr-ui.min.css",
