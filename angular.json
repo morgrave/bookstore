@@ -81,8 +81,8 @@
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/BBC/images/4",
-                "output": "/campaigns/BBC/images/4"
+                "input": "../bookshelf/src/campaigns/BBC/images/5",
+                "output": "/campaigns/BBC/images/5"
               },
               "src/campaigns/SKT/logs/"
             ],
