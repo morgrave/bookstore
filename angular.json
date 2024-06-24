@@ -66,8 +66,8 @@
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/ARC/images/34",
-                "output": "/campaigns/ARC/images/34"
+                "input": "../bookshelf/src/campaigns/ARC/images/46",
+                "output": "/campaigns/ARC/images/46"
               },
               {
                 "glob": "**/*.*",
@@ -81,8 +81,8 @@
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/BBC/images/2",
-                "output": "/campaigns/BBC/images/2"
+                "input": "../bookshelf/src/campaigns/BBC/images/6",
+                "output": "/campaigns/BBC/images/6"
               },
               {
                 "glob": "**/*.*",
