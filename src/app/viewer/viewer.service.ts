@@ -120,9 +120,16 @@ export class ViewerService {
                 `(<img([^<]+)<h4 class="message-sender chat-portrait-text-size-name">${npc.name}</h4>)`,
                 'gi'
               );
+              const regexp2 = new RegExp(
+                `(<img([^<]+)<h4 class="message-sender chat-portrait-text-size-name-pf2e" style="align-self: center;">${npc.name}</h4>)`,
+                'gi'
+              );
               return log.replace(
                 regexp,
                 `<img src="${this.baseHref}assets/images/${npc.avatar}" width="36" height="36" class="message-portrait" style="border: none"/><h4 class="message-sender chat-portrait-text-size-name">${npc.name}</h4>`
+              ).replace(
+                regexp2,
+                `<img src="${this.baseHref}assets/images/${npc.avatar}" width="36" height="36" class="message-sender chat-portrait-text-size-name-pf2e" style="border: none;"/><h4 class="message-sender chat-portrait-text-size-name-pf2e" style="align-self: center;">${npc.name}</h4>`
               );
             } else {
               const regexp = new RegExp(
