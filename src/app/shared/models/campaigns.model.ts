@@ -27,6 +27,307 @@ export interface Image {
 
 export const Campaigns = [
   {
+    title: 'DRO',
+    label: '드로암의 용병들 (2024)',
+    platform: 'FVTT',
+    npcs: [
+      {
+        name: '지뢰남작',
+        avatar: 'npc_baron2.png',
+      },
+      {
+        name: '미오',
+        avatar: 'npc_mio.png',
+      },
+      {
+        name: '버블검',
+        avatar: 'npc_bubblegum.png',
+      },
+      {
+        name: '이리스',
+        avatar: 'npc_iris.png',
+      },
+      {
+        name: '타라',
+        avatar: 'npc_tara.png',
+      },
+      {
+        name: '세아흐레',
+        avatar: 'npc_seire.png',
+      },
+    ],
+    logs: [
+      {
+        index: '0',
+        name: '오프닝',
+        images: [
+          {
+            id: ``,
+            file: '0.jpg',
+          },
+          {
+            id: ``,
+            file: '1.jpg',
+          },
+          {
+            id: ``,
+            file: '2.jpg',
+          },
+          {
+            id: ``,
+            file: '3.jpg',
+          },
+          {
+            id: ``,
+            file: '4.jpg',
+          },
+          {
+            id: ``,
+            file: '5.jpg',
+          },
+          {
+            id: ``,
+            file: '6.jpg',
+          },
+          {
+            id: ``,
+            file: '7.jpg',
+          },
+          {
+            id: ``,
+            file: '8.jpg',
+          },
+          {
+            id: ``,
+            file: '9.jpg',
+          },
+          {
+            id: ``,
+            file: '10.jpg',
+          },
+          {
+            id: ``,
+            file: '11.jpg',
+          },
+          {
+            id: ``,
+            file: '12.jpg',
+          },
+          {
+            id: ``,
+            file: '13.jpg',
+          },
+          {
+            id: ``,
+            file: '14.jpg',
+          },
+          {
+            id: ``,
+            file: '15.jpg',
+          },
+          {
+            id: ``,
+            file: '16.jpg',
+          },
+          {
+            id: ``,
+            file: '17.jpg',
+          },
+          {
+            id: ``,
+            file: '18.jpg',
+          },
+          {
+            id: ``,
+            file: '19.jpg',
+          },
+          {
+            id: ``,
+            file: '20.jpg',
+          },
+          {
+            id: ``,
+            file: '21.jpg',
+          },
+          {
+            id: ``,
+            file: '22.jpg',
+          },
+          {
+            id: ``,
+            file: '23.jpg',
+          },
+          {
+            id: ``,
+            file: '1.jpg',
+          },
+          {
+            id: ``,
+            file: '24.jpg',
+          },
+          {
+            id: ``,
+            file: '25.jpg',
+          },
+          {
+            id: ``,
+            file: '26.jpg',
+          },
+          {
+            id: ``,
+            file: '27.jpg',
+          },
+          {
+            id: ``,
+            file: '28.jpg',
+          },
+          {
+            id: ``,
+            file: '29.jpg',
+          },
+          {
+            id: ``,
+            file: '30.jpg',
+          },
+          {
+            id: ``,
+            file: '31.jpg',
+          },
+          {
+            id: ``,
+            file: '32.jpg',
+          },
+          {
+            id: ``,
+            file: '33.jpg',
+          },
+          {
+            id: ``,
+            file: '34.jpg',
+          },
+          {
+            id: ``,
+            file: '35.jpg',
+          },
+          {
+            id: ``,
+            file: '36.jpg',
+          },
+          {
+            id: ``,
+            file: '37.jpg',
+          },
+          {
+            id: ``,
+            file: '1.jpg',
+          },
+          {
+            id: ``,
+            file: '38.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: ``,
+            file: '',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '1.png',
+          },
+          {
+            id: ``,
+            file: '2.png',
+          },
+          {
+            id: ``,
+            file: '3.png',
+          },
+          {
+            id: ``,
+            file: '4.png',
+          },
+          {
+            id: ``,
+            file: '5.png',
+          },
+          {
+            id: ``,
+            file: '6.png',
+          },
+          {
+            id: ``,
+            file: '0.png',
+          },
+          {
+            id: ``,
+            file: '1.png',
+          },
+          {
+            id: ``,
+            file: '2.png',
+          },
+          {
+            id: ``,
+            file: '3.png',
+          },
+          {
+            id: ``,
+            file: '',
+          },
+          {
+            id: ``,
+            file: '7.png',
+          },
+          {
+            id: ``,
+            file: '8.png',
+          },
+          {
+            id: ``,
+            file: '9.png',
+          },
+          {
+            id: ``,
+            file: '10.png',
+          },
+          {
+            id: ``,
+            file: '11.png',
+          },
+          {
+            id: ``,
+            file: '12.png',
+          },
+          {
+            id: ``,
+            file: '7.png',
+          },
+          {
+            id: ``,
+            file: '8.png',
+          },
+          {
+            id: ``,
+            file: '9.png',
+          },
+          {
+            id: ``,
+            file: '10.png',
+          },
+          {
+            id: ``,
+            file: '',
+          },
+        ],
+      },
+    ],
+  },
+  {
     title: 'UDT',
     label: '우당탕탕! 대학 대소동! (2022)',
     platform: 'FVTT',

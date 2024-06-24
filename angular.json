@@ -84,6 +84,16 @@
                 "input": "../bookshelf/src/campaigns/BBC/images/2",
                 "output": "/campaigns/BBC/images/2"
               },
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/DRO/logs/",
+                "output": "/campaigns/DRO/logs/"
+              },
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/DRO/images/0",
+                "output": "/campaigns/DRO/images/0"
+              },
               "src/campaigns/SKT/logs/"
             ],
             "styles": [
