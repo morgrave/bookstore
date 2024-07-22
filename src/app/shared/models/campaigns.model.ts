@@ -1654,7 +1654,7 @@ export const Campaigns = [
       },
       {
         index: '4',
-        name: '4화: ',
+        name: '4화: 토끼공듀 Lv. 2000',
         images: [
           {
             id: `0fjI8xjyEHqvCI9T`,
