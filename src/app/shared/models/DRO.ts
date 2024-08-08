@@ -1912,5 +1912,397 @@ export const DRO = {
         },
       ],
     },
+    {
+      index: '6',
+      name: '6화: 넌 가짜... 가짜데스우...',
+      images: [
+        {
+          id: `YC0289XGrQhU3BH7`,
+          file: '6 (1).jpg',
+        },
+        {
+          id: `wFDwrBk0irZTaDBr`,
+          file: '6 (2).jpg',
+        },
+        {
+          id: `xuNaYRMuY62w7wgv`,
+          file: '6 (3).jpg',
+        },
+        {
+          id: `o8OLMB81cPpQR6cb`,
+          file: '6 (4).jpg',
+        },
+        {
+          id: `bLdeDWvHK36b3sTC`,
+          file: '6 (5).jpg',
+        },
+        {
+          id: `tbKuus46HkLwpyV0`,
+          file: '6 (6).jpg',
+        },
+        {
+          id: `tw2NV0HFDcN0sGOI`,
+          file: '6 (7).jpg',
+        },
+        {
+          id: `j4ml3NUWsgYdEu0B`,
+          file: '6 (8).jpg',
+        },
+        {
+          id: `6sLeTUV1admLBID0`,
+          file: '6 (9).jpg',
+        },
+        {
+          id: `hQRd5b4LmbAXViLI`,
+          file: '6 (10).jpg',
+        },
+        {
+          id: `c2NZXAniVCfNbzQn`,
+          file: '6 (11).jpg',
+        },
+        {
+          id: `9eC45JuRN543PIa8`,
+          file: '6 (10).jpg',
+        },
+        {
+          id: `FokrvrDpOAExq2oG`,
+          file: '6 (12).jpg',
+        },
+        {
+          id: `50o7EkkR7X6b1dy2`,
+          file: '6 (13).jpg',
+        },
+        {
+          id: `iauBNJvEJJpgIC6S`,
+          file: '6 (14).jpg',
+        },
+        {
+          id: `BuCdHZRs1evYNtBM`,
+          file: '6 (15).jpg',
+        },
+        {
+          id: `x15pT260BQXGgMPm`,
+          file: '6 (16).jpg',
+        },
+        {
+          id: `gbFUBm14D7XyXbFv`,
+          file: '6 (17).jpg',
+        },
+        {
+          id: `xgbO7IJ2lz6W9MOb`,
+          file: '6 (18).jpg',
+        },
+        {
+          id: `VwCxKkXsOJMM8KFt`,
+          file: '6 (19).jpg',
+        },
+        {
+          id: `sM6WmT7t5mPUqtju`,
+          file: '6 (20).jpg',
+        },
+        {
+          id: `Gf99bBh5XHdJDCBd`,
+          file: '6 (21).jpg',
+        },
+        {
+          id: `XHswrhJjexAePc4T`,
+          file: '6 (22).jpg',
+        },
+        {
+          id: `wXmJfhOCRbsJL8ZU`,
+          file: '6 (23).jpg',
+        },
+        {
+          id: `MweU1D1r6j2h093G`,
+          file: '6 (24).jpg',
+        },
+        {
+          id: `xUgiAD5zJhk8n5Hp`,
+          file: '6 (25).jpg',
+        },
+        {
+          id: `2AsGpdVJoV7URepz`,
+          file: '6 (26).jpg',
+        },
+        {
+          id: `Y02av4fB5LEGrYgq`,
+          file: '6 (27).jpg',
+        },
+        {
+          id: `4D4MyNJzcYnOkS7W`,
+          file: '6 (28).jpg',
+        },
+        {
+          id: `ywTEKzgRxqTvgvPv`,
+          file: '6 (29).jpg',
+        },
+        {
+          id: `ZRHf3N5EaE1cDOtq`,
+          file: '6 (30).jpg',
+        },
+        {
+          id: `WMG6Nfc7IcY3s1Rt`,
+          file: '6 (31).jpg',
+        },
+        {
+          id: `QA89JR8IKTAL9VnK`,
+          file: '6 (32).jpg',
+        },
+        {
+          id: `5Qp4CrESsvJVlyT0`,
+          file: '6 (33).jpg',
+        },
+        {
+          id: `Iy9yNnRLn0XbMINM`,
+          file: '6 (34).jpg',
+        },
+        {
+          id: `9Hn745TVKtoXQXkY`,
+          file: '6 (35).jpg',
+        },
+        {
+          id: `luS7nWGzMvL7hfw8`,
+          file: '6 (36).jpg',
+        },
+        {
+          id: `wLFM438I1kzdjkyd`,
+          file: '6 (37).jpg',
+        },
+        {
+          id: `OB38v3l7b5Ry4px3`,
+          file: '6 (38).jpg',
+        },
+        {
+          id: `A4DlJpTuFom0ldkG`,
+          file: '6 (39).jpg',
+        },
+        {
+          id: `qS30aOoH6llyXJJ4`,
+          file: '6 (40).jpg',
+        },
+        {
+          id: `tioe6XoCmM85H0Xo`,
+          file: '6 (41).jpg',
+        },
+        {
+          id: `dbicndrK9quJ1xmJ`,
+          file: '6 (42).jpg',
+        },
+        {
+          id: `8wouCPGC17Qx7l3d`,
+          file: '6 (43).jpg',
+        },
+        {
+          id: `PqlTUmjYtBxsJITP`,
+          file: '6 (44).jpg',
+        },
+        {
+          id: `mpu1fIzVPY1pOruk`,
+          file: '6 (45).jpg',
+        },
+        {
+          id: `3yiwpm9NTBFIXqar`,
+          file: '6 (46).jpg',
+        },
+        {
+          id: `jl0s2ZAwNuXeiNmO`,
+          file: '6 (47).jpg',
+        },
+        {
+          id: `aC9oSZC3Qp56PVvh`,
+          file: '6 (48).jpg',
+        },
+        {
+          id: `O8o9N3aj6x7b1SVZ`,
+          file: '6 (49).jpg',
+        },
+        {
+          id: `DS727Wa8VbnYNTgg`,
+          file: '6 (50).jpg',
+        },
+        {
+          id: `jbFAswEkyH2LQF60`,
+          file: '6 (51).jpg',
+        },
+        {
+          id: `zbrISgRirdIrCBgW`,
+          file: '6 (52).jpg',
+        },
+        {
+          id: `TvrEQOKh7UVT00MB`,
+          file: '6 (53).jpg',
+        },
+        {
+          id: `KllSX1d4K70WYqrm`,
+          file: '6 (54).jpg',
+        },
+        {
+          id: `GopCxm6Y8S0Nwkob`,
+          file: '6 (55).jpg',
+        },
+        {
+          id: `cLmgVRGQJq0cWuVl`,
+          file: '6 (56).jpg',
+        },
+        {
+          id: `pGt9OVvzLZjMo6Ub`,
+          file: '6 (57).jpg',
+        },
+        {
+          id: `puyaG81OeXa9lfdi`,
+          file: '6 (58).jpg',
+        },
+        {
+          id: `f0IryruZK06DgoKZ`,
+          file: '6 (59).jpg',
+        },
+        {
+          id: `q9WcvgYsXRhwMjjf`,
+          file: '6 (60).jpg',
+        },
+        {
+          id: `UPEXR6VlO7RXPPB8`,
+          file: '6 (61).jpg',
+        },
+        {
+          id: `3Xq4pHJkGPQNIUHu`,
+          file: '6 (62).jpg',
+        },
+        {
+          id: `aREeOI5Qel7NdSHe`,
+          file: '6 (63).jpg',
+        },
+        {
+          id: `Ziz1UMcMk3hrGFLR`,
+          file: '6 (64).jpg',
+        },
+        {
+          id: `A1YX9VmnDZzK7QhO`,
+          file: '6 (65).jpg',
+        },
+      ],
+      interfaces: [
+        {
+          id: `YC0289XGrQhU3BH7`,
+          file: '',
+        },
+        {
+          id: `j2Jas62nSIt8NmAg`,
+          file: '6 (1).png',
+        },
+        {
+          id: `mOL1Y6ZMlAPQXlOA`,
+          file: '6 (2).png',
+        },
+        {
+          id: `vSxi5kOXHa0roJun`,
+          file: '6 (3).png',
+        },
+        {
+          id: `qNfiaUDKMfpvDuz2`,
+          file: '6 (4).png',
+        },
+        {
+          id: `EXMNotwTGDAPFpo0`,
+          file: '6 (5).png',
+        },
+        {
+          id: `qM269m50izfafPRq`,
+          file: '6 (6).png',
+        },
+        {
+          id: `xUgiAD5zJhk8n5Hp`,
+          file: '6 (7).png',
+        },
+        {
+          id: `BKpQc5H8qo9V17Dd`,
+          file: '6 (8).png',
+        },
+        {
+          id: `GGeIBYau7SeN1jXK`,
+          file: '6 (9).png',
+        },
+        {
+          id: `YKPHbmVrpsu7XG6J`,
+          file: '6 (10).png',
+        },
+        {
+          id: `s0HiLQIUSdABJToT`,
+          file: '6 (11).png',
+        },
+        {
+          id: `nIRTYrgVjRr24PwA`,
+          file: '6 (12).png',
+        },
+        {
+          id: `9Hn745TVKtoXQXkY`,
+          file: '6 (13).png',
+        },
+        {
+          id: `PB6JQGRngHQZaXZW`,
+          file: '6 (14).png',
+        },
+        {
+          id: `tioe6XoCmM85H0Xo`,
+          file: '6 (15).png',
+        },
+        {
+          id: `46k4r69dgIqpChuS`,
+          file: '6 (16).png',
+        },
+        {
+          id: `uLH1NaUrrbMoinBA`,
+          file: '6 (17).png',
+        },
+        {
+          id: `SGFck9lvDVm5dJms`,
+          file: '6 (18).png',
+        },
+        {
+          id: `RIj1vDQqVA1CyWN4`,
+          file: '6 (19).png',
+        },
+        {
+          id: `Vr2QeG3WGIPV5dX8`,
+          file: '6 (20).png',
+        },
+        {
+          id: `qtfaSz8yKo0cO0Yp`,
+          file: '6 (21).png',
+        },
+        {
+          id: `Jd3tU7vnSfyaTWIo`,
+          file: '6 (22).png',
+        },
+        {
+          id: `zbrISgRirdIrCBgW`,
+          file: '6 (23).png',
+        },
+        {
+          id: `LjvOWygKLZnmbhbC`,
+          file: '6 (24).png',
+        },
+        {
+          id: `TvrEQOKh7UVT00MB`,
+          file: '6 (25).png',
+        },
+        {
+          id: `FPSITpmvGz6DjoDn`,
+          file: '6 (26).png',
+        },
+        {
+          id: `Uuma2SO2K5oxeGsb`,
+          file: '6 (27).png',
+        },
+        {
+          id: `BT3oLxtY3uUS8Qx2`,
+          file: '6 (28).png',
+        },
+        {
+          id: `ooCdWBDLhr82GeND`,
+          file: '',
+        },
+      ],
+    },
   ],
 };
