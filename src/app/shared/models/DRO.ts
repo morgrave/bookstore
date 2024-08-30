@@ -2780,5 +2780,39 @@ export const DRO = {
         },
       ],
     },
+    {
+      index: '8',
+      name: '8화: 상상도 못한 정체',
+      images: [
+        {
+          id: `wAcKwJDBaalpvvrU`,
+          file: '8 (1).jpg',
+        },
+        {
+          id: `kArtB4nG5DKG3K2H`,
+          file: '8 (2).jpg',
+        },
+        {
+          id: `PKse3b7gmMt9azgf`,
+          file: '8 (3).jpg',
+        },
+        {
+          id: `Q2eQPJw5SKRuOzXC`,
+          file: '8 (4).jpg',
+        },
+        {
+          id: `Q5ajnoZJxfcsKyg8`,
+          file: '8 (5).jpg',
+        },
+        {
+          id: `CRny5jL9BIWNkbkw`,
+          file: '8 (4).jpg',
+        },
+        {
+          id: `wubbFIwtqP44fEwo`,
+          file: '8 (6).jpg',
+        },
+      ],
+    },
   ],
 };
