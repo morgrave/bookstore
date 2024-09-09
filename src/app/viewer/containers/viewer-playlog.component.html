@@ -12,11 +12,15 @@
     <div id="imgarea" class="imagearea" *ngIf="viewerService.curVideo">
       <iframe width="100%" height="100%" [src]="getVideo(viewerService.curVideo)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
-    <div class="textarea" [style.width]="viewerService.curImages.length === 0 ? '100%' : textareaWidth" [style.min-width]="textareaWidth" (scroll)="onScroll($event)">
+    <div class="textarea" [style.width]="viewerService.curImages.length === 0 ? '100%' : textareaWidth" [style.min-width]="textareaWidth" (scroll)="onScroll($event)" *ngIf="!viewerService.curVideo">
       <div class="expandbar" *ngIf="viewerService.curImages.length" (panstart)="saveLastTextAreaWidth()" (pan)="expandTextArea($event)"></div>
       <div id="mid" class="mid">
         ◀
       </div>
+      <app-viewer-text [log]="viewerService.log"></app-viewer-text>
+    </div>
+    <div class="textarea" [style.width]="viewerService.curImages.length === 0 ? '100%' : textareaWidth" [style.min-width]="textareaWidth" *ngIf="viewerService.curVideo">
+      <div class="expandbar" *ngIf="viewerService.curImages.length" (panstart)="saveLastTextAreaWidth()" (pan)="expandTextArea($event)"></div>
       <app-viewer-text [log]="viewerService.log"></app-viewer-text>
     </div>
   </div>

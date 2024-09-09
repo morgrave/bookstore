@@ -2517,6 +2517,11 @@ export const Campaigns = [
         index: '0',
         name: '캐릭터 메이킹',
       },
+      {
+        index: '1',
+        name: '1화: 추적 300분',
+        video: 'https://www.youtube.com/embed/oIwOh8nWY4g',
+      },
     ]
   },
   {

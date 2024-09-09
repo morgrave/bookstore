@@ -49,7 +49,7 @@ export class ViewerPlaylogComponent implements OnInit {
 
   onScroll(event: any) {
     const mid = document.getElementById('mid');
-    if (mid) {
+    if (mid && !this.viewerService.curVideo) {
       let curIndex = 0;
       const curPos = (mid.getBoundingClientRect().top + mid.getBoundingClientRect().bottom) / 2;
       if (this.viewerService.curImages.length && !this.isMobile()) {
