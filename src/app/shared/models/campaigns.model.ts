@@ -67536,6 +67536,19 @@ export const Campaigns = [
     ],
   },
   {
+    title: 'PF1',
+    label: '패스파인더 단편',
+    platform: 'roll20',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2024090901',
+        name: '1화: 여러분은 여관에 모였습니다',
+      },
+    ],
+  },
+  {
     title: 'NJS',
     label: '닌자 슬레이어 (2023)',
     platform: 'ccfolia',
