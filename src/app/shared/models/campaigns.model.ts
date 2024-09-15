@@ -2522,6 +2522,11 @@ export const Campaigns = [
         name: '1화: 추적 300분',
         video: 'https://www.youtube.com/embed/oIwOh8nWY4g',
       },
+      {
+        index: '2',
+        name: '2화: 퍼리의 효능',
+        video: 'https://www.youtube.com/embed/ci7Q3wOGOSc',
+      },
     ]
   },
   {
