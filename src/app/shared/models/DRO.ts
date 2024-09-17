@@ -3486,5 +3486,125 @@ export const DRO = {
         },
       ],
     },
+    {
+      index: '11',
+      name: '11화: 최고의 치킨이란 무엇인가',
+      images: [
+        {
+          id: `jk4M3eWbJhmnFBnu`,
+          file: '11 (1).jpg',
+        },
+        {
+          id: `NiPFn0qQLVTGyuHv`,
+          file: '11 (2).jpg',
+        },
+        {
+          id: `Odh9oKgY1fB165qE`,
+          file: '11 (3).jpg',
+        },
+        {
+          id: `L56MqjjxsGHqRfe5`,
+          file: '11 (2).jpg',
+        },
+        {
+          id: `vRai5KPDRRY7oTMi`,
+          file: '11 (4).jpg',
+        },
+        {
+          id: `XJ7TUKk5RzLeDNEU`,
+          file: '11 (5).jpg',
+        },
+        {
+          id: `QlgjrdlVhjzLzNuj`,
+          file: '11 (6).jpg',
+        },
+        {
+          id: `2SAJHudDypZryYGU`,
+          file: '11 (7).jpg',
+        },
+        {
+          id: `Rq5wY5DKVDHgHqKQ`,
+          file: '11 (8).jpg',
+        },
+        {
+          id: `mO7jjP6jV7oPT8Jj`,
+          file: '11 (9).jpg',
+        },
+        {
+          id: `HchwqOZpaoFhGOpQ`,
+          file: '11 (10).jpg',
+        },
+        {
+          id: `wdHyF4vEtuM5XN37`,
+          file: '11 (11).jpg',
+        },
+        {
+          id: `Kb1dk4gwZLnCDfef`,
+          file: '11 (12).jpg',
+        },
+        {
+          id: `fkF6YYmO1BaTyaKb`,
+          file: '11 (13).jpg',
+        },
+        {
+          id: `CDji7jbRMoSgOyHC`,
+          file: '11 (14).jpg',
+        },
+        {
+          id: `mIu1PVbJ2nZPoIIr`,
+          file: '11 (15).jpg',
+        },
+        {
+          id: `7fidKWBbbZPl6005`,
+          file: '11 (16).jpg',
+        },
+        {
+          id: `WnWvH0DJ41u4xpDF`,
+          file: '11 (17).jpg',
+        },
+        {
+          id: `CSSpPqpAgJdQi7CE`,
+          file: '11 (18).jpg',
+        },
+      ],
+      interfaces: [
+        {
+          id: `jk4M3eWbJhmnFBnu`,
+          file: '',
+        },
+        {
+          id: `REA24aYwQ4fJWgX8`,
+          file: '11 (1).png',
+        },
+        {
+          id: `0L0VjVA5rTt2kBso`,
+          file: '11 (2).png',
+        },
+        {
+          id: `pXLoy9JyrwuohSxT`,
+          file: '11 (3).png',
+        },
+        {
+          id: `9ydjCNNbE5RqYdnd`,
+          file: '11 (4).png',
+        },
+        {
+          id: `2B43tnHdJFSp4rvC`,
+          file: '11 (5).png',
+        },
+        {
+          id: `R8rSSbQtGArRYRKM`,
+          file: '11 (6).png',
+        },
+        {
+          id: `a6pf8clvEo9my0Ae`,
+          file: '11 (7).png',
+        },
+        {
+          id: `lW2eXCQuqX2ZGx4E`,
+          file: '11 (8).png',
+        },
+      ],
+    },
   ],
 };
