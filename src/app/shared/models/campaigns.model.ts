@@ -2527,6 +2527,11 @@ export const Campaigns = [
         name: '2화: 퍼리의 효능',
         video: 'https://www.youtube.com/embed/ci7Q3wOGOSc',
       },
+      {
+        index: '3',
+        name: '3화: 우리 비행선 정상 운행합니다',
+        video: 'https://www.youtube.com/embed/wRnq6-5DjVU',
+      },
     ]
   },
   {
