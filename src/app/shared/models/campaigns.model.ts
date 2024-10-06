@@ -2537,6 +2537,11 @@ export const Campaigns = [
         name: '4화: 늑대가 복사가 된다고',
         video: 'https://www.youtube.com/embed/vqtIQO3R3MQ',
       },
+      {
+        index: '5',
+        name: '5화: 슈퍼 메카 데스 은불 2000',
+        video: 'https://www.youtube.com/embed/zBKSO8YHjD0',
+      },
     ]
   },
   {
