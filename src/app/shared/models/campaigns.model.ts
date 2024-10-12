@@ -2542,6 +2542,11 @@ export const Campaigns = [
         name: '5화: 슈퍼 메카 데스 은불 2000',
         video: 'https://www.youtube.com/embed/zBKSO8YHjD0',
       },
+      {
+        index: '6',
+        name: '6화: 자연이 그대를 허용하리라',
+        video: 'https://www.youtube.com/embed/4_n0r-SXN8E',
+      },
     ]
   },
   {
