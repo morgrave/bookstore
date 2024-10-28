@@ -4874,5 +4874,33 @@ export const DRO = {
         },
       ],
     },
+    {
+      index: '16',
+      name: '16화: 북극곰의 절규',
+      images: [
+        {
+          id: `QKdT32L2Ek9Vc6L9`,
+          file: '16 (1).jpg',
+        },
+        {
+          id: `wriUpXQTX35iiBHf`,
+          file: '16 (2).jpg',
+        },
+        {
+          id: `8Pk185Nt04HH0vhy`,
+          file: '16 (1).jpg',
+        },
+        {
+          id: `VNdLhmAvZ9RyLanB`,
+          file: '16 (3).jpg',
+        },
+        {
+          id: `TKmvKmj9Ety0oZZS`,
+          file: '16 (4).jpg',
+        },
+      ],
+      interfaces: [
+      ],
+    },
   ],
 };
