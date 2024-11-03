@@ -2560,6 +2560,22 @@ export const Campaigns = [
         index: '0',
         name: '캐릭터 메이킹',
       },
+      {
+        index: '0A',
+        name: '오프닝: 아담',
+      },
+      {
+        index: '0B',
+        name: '오프닝: 카를로',
+      },
+      {
+        index: '0C',
+        name: '오프닝: 펠란',
+      },
+      {
+        index: '0D',
+        name: '오프닝: 아르모리크',
+      },
     ]
   },
   {
