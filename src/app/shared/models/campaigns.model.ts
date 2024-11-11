@@ -2576,6 +2576,11 @@ export const Campaigns = [
         index: '0D',
         name: '오프닝: 아르모리크',
       },
+      {
+        index: '1',
+        name: '1화: 사나이 클럽',
+        video: 'https://www.youtube.com/embed/Vx0pbKx2zUM',
+      },
     ]
   },
   {
