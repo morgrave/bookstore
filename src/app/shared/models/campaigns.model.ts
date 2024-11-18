@@ -2581,6 +2581,11 @@ export const Campaigns = [
         name: '1화: 사나이 클럽',
         video: 'https://www.youtube.com/embed/Vx0pbKx2zUM',
       },
+      {
+        index: '2',
+        name: '2화: 여러분은 여관을 습격합니다',
+        video: 'https://www.youtube.com/embed/UzDUpXIBKMI',
+      },
     ]
   },
   {
