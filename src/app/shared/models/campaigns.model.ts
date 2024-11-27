@@ -2586,6 +2586,11 @@ export const Campaigns = [
         name: '2화: 여러분은 여관을 습격합니다',
         video: 'https://www.youtube.com/embed/UzDUpXIBKMI',
       },
+      {
+        index: '3',
+        name: '3화: 파란 하늘위로 훨훨 날아',
+        video: 'https://www.youtube.com/embed/Bul3phFv-TY',
+      },
     ]
   },
   {
