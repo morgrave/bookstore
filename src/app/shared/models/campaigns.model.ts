@@ -2596,6 +2596,10 @@ export const Campaigns = [
         name: '4화: 레일로드 전개',
         video: 'https://www.youtube.com/embed/fwZEwh2C9vw',
       },
+      {
+        index: '5',
+        name: '5화: 오오 지금 갑니다',
+      },
     ]
   },
   {
