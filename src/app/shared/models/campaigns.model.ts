@@ -2599,6 +2599,20 @@ export const Campaigns = [
       {
         index: '5',
         name: '5화: 오오 지금 갑니다',
+        video: 'https://www.youtube.com/embed/yT_SsjUFN9c',
+      },
+    ]
+  },
+  {
+    title: 'WVB4',
+    label: '영혼의 검 4팀 (2025)',
+    platform: 'roll20',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '0',
+        name: '캐릭터 메이킹',
       },
     ]
   },
