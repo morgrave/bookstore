@@ -2619,6 +2619,11 @@ export const Campaigns = [
         name: '1화: 깃털비늘 원정대 출발',
         video: 'https://www.youtube.com/embed/LFG1TXm38HY',
       },
+      {
+        index: '2',
+        name: '2화: 샨의 중심에서 퍼리를 외치다',
+        video: 'https://www.youtube.com/embed/y1NQMKRa9pQ',
+      },
     ]
   },
   {
