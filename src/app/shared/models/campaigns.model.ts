@@ -2624,6 +2624,11 @@ export const Campaigns = [
         name: '2화: 샨의 중심에서 퍼리를 외치다',
         video: 'https://www.youtube.com/embed/y1NQMKRa9pQ',
       },
+      {
+        index: '3',
+        name: '3화: 제 퍼리 아내임.........',
+        video: 'https://www.youtube.com/embed/sd-TjL1qGIk',
+      },
     ]
   },
   {
