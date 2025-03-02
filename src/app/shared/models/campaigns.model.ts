@@ -2629,6 +2629,11 @@ export const Campaigns = [
         name: '3화: 제 퍼리 아내임.........',
         video: 'https://www.youtube.com/embed/sd-TjL1qGIk',
       },
+      {
+        index: '4',
+        name: '4화: 깃털비늘 온 더 비치',
+        video: 'https://www.youtube.com/embed/wrSEcMC9IVc',
+      },
     ]
   },
   {
