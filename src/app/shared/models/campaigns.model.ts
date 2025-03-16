@@ -67690,6 +67690,19 @@ export const Campaigns = [
     ],
   },
   {
+    title: 'HIS',
+    label: '패스파인더 이스투아',
+    platform: 'roll20',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '1',
+        name: '1화: 역시 여러분은 여관에 모였습니다',
+      },
+    ],
+  },
+  {
     title: 'NJS',
     label: '닌자 슬레이어 (2023)',
     platform: 'ccfolia',
