@@ -2639,6 +2639,11 @@ export const Campaigns = [
         name: '5화: 목격자가 없으면 암살',
         video: 'https://www.youtube.com/embed/YFp-zh74vt0',
       },
+      {
+        index: '6',
+        name: '6화: 이륙을 허가한다',
+        video: 'https://www.youtube.com/embed/cZ_f4xfIwv0',
+      },
     ]
   },
   {
