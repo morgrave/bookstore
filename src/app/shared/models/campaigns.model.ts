@@ -2644,6 +2644,11 @@ export const Campaigns = [
         name: '6화: 이륙을 허가한다',
         video: 'https://www.youtube.com/embed/cZ_f4xfIwv0',
       },
+      {
+        index: '7',
+        name: '7화: 상상도 못한 정체',
+        video: 'https://www.youtube.com/embed/SuiWSns88OY',
+      },
     ]
   },
   {
@@ -67708,6 +67713,10 @@ export const Campaigns = [
       {
         index: '1',
         name: '1화: 사랑과 멧돼지는 교통사고처럼',
+      },
+      {
+        index: '2',
+        name: '2화: 바깥에서 찾아온 몬스터 헌터들',
       },
     ],
   },
