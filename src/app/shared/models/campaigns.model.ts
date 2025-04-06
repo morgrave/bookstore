@@ -2649,6 +2649,10 @@ export const Campaigns = [
         name: '7화: 상상도 못한 정체',
         video: 'https://www.youtube.com/embed/SuiWSns88OY',
       },
+      {
+        index: '8',
+        name: '8화: 행복한 우리 집',
+      },
     ]
   },
   {
