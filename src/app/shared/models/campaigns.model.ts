@@ -2652,6 +2652,11 @@ export const Campaigns = [
       {
         index: '8',
         name: '8화: 행복한 우리 집',
+        video: 'https://www.youtube.com/embed/E_3DXYLJO0Y',
+      },
+      {
+        index: '9',
+        name: '9화: 엉망진창 퍼리 레슬링',
       },
     ]
   },
