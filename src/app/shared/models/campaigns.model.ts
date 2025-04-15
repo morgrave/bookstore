@@ -2657,6 +2657,7 @@ export const Campaigns = [
       {
         index: '9',
         name: '9화: 엉망진창 퍼리 레슬링',
+        video: 'https://www.youtube.com/embed/AmanDiMXsgQ',
       },
     ]
   },
@@ -67734,6 +67735,10 @@ export const Campaigns = [
       {
         index: '3-1',
         name: '3-1화: 사슴과 황소와 산양',
+      },
+      {
+        index: '3-2',
+        name: '3-2화: 사슴과 황소와 산양',
       },
     ],
   },
