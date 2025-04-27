@@ -67744,6 +67744,10 @@ export const Campaigns = [
         index: '4-1',
         name: '4-1화: 산양과 푸른 별',
       },
+      {
+        index: '4-2',
+        name: '4-2화: 산양과 푸른 별',
+      },
     ],
   },
   {
