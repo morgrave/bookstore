@@ -2659,6 +2659,10 @@ export const Campaigns = [
         name: '9화: 엉망진창 퍼리 레슬링',
         video: 'https://www.youtube.com/embed/AmanDiMXsgQ',
       },
+      {
+        index: '10',
+        name: '10화: 깃털비늘맛 초진화',
+      },
     ]
   },
   {
