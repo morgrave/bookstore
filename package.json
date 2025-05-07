@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
+    "deploy": "git config --global user.email dwaldo@naver.com && git config --global user.name dwaldo && git add . && git commit -m 'deploy' && git push",
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",

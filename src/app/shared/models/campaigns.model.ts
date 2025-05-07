@@ -2663,6 +2663,10 @@ export const Campaigns = [
         index: '10',
         name: '10화: 깃털비늘맛 초진화',
       },
+      {
+        index: '11',
+        name: '11화: 가족을 저장하지 못했습니다',
+      },
     ]
   },
   {
@@ -67751,6 +67755,10 @@ export const Campaigns = [
       {
         index: '4-2',
         name: '4-2화: 산양과 푸른 별',
+      },
+      {
+        index: '5-1',
+        name: '5-1화: 죽은 여왕을 위한 파반느',
       },
     ],
   },

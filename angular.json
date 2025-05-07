@@ -91,8 +91,8 @@
               },
               {
                 "glob": "**/*.*",
-                "input": "../bookshelf/src/campaigns/DRO/images/0",
-                "output": "/campaigns/DRO/images/0"
+                "input": "../bookshelf/src/campaigns/DRO/images/9",
+                "output": "/campaigns/DRO/images/9"
               },
               "src/campaigns/SKT/logs/"
             ],
