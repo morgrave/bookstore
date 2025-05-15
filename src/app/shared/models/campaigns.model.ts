@@ -2662,14 +2662,17 @@ export const Campaigns = [
       {
         index: '10',
         name: '10화: 깃털비늘맛 초진화',
+        video: 'https://www.youtube.com/embed/YhEcr2uACQs',
       },
       {
         index: '11',
         name: '11화: 가족을 저장하지 못했습니다',
+        video: 'https://www.youtube.com/embed/JqMZIHasKos',
       },
       {
         index: '12',
         name: '12화: 깃털비늘 원정대 결전',
+        video: 'https://www.youtube.com/embed/WHbBufiIvjo',
       },
     ]
   },
