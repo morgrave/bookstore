@@ -67807,6 +67807,10 @@ export const Campaigns = [
         index: '7-5',
         name: '7-5화: 악의 윤회',
       },
+      {
+        index: '7-6',
+        name: '7-6화: 악의 윤회',
+      },
     ],
   },
   {
