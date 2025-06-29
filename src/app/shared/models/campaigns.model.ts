@@ -67815,6 +67815,10 @@ export const Campaigns = [
         index: '7-6',
         name: '7-6화: 악의 윤회',
       },
+      {
+        index: '8-1',
+        name: '8-1화: 너무 무거운 그 사랑',
+      },
     ],
   },
   {
