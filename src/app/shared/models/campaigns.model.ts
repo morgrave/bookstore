@@ -67823,6 +67823,10 @@ export const Campaigns = [
         index: '8-2',
         name: '8-2화: 너무 무거운 그 사랑',
       },
+      {
+        index: '9-1',
+        name: '9-1화: 정복의 역사',
+      },
     ],
   },
   {
