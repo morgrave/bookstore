@@ -67730,6 +67730,10 @@ export const Campaigns = [
         index: '2025061501',
         name: '캐리온 힐 1화',
       },
+      {
+        index: '2025072101',
+        name: '캐리온 힐 2화',
+      },
     ],
   },
   {
