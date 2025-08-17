@@ -67875,6 +67875,10 @@ export const Campaigns = [
         index: '12-3',
         name: '12-3화: 영혼달 아래에서의 윤무곡',
       },
+      {
+        index: '13-1',
+        name: '13-1화: 석별',
+      },
     ],
   },
   {
