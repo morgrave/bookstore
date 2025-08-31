@@ -67887,6 +67887,10 @@ export const Campaigns = [
         index: '14-1',
         name: '14-1화: 모험자',
       },
+      {
+        index: '14-2',
+        name: '14-2화: 모험자',
+      },
     ],
   },
   {
