@@ -67923,6 +67923,10 @@ export const Campaigns = [
         index: '15-1',
         name: '15-1화: 사노스 숲',
       },
+      {
+        index: '15-2',
+        name: '15-2화: 사노스 숲',
+      },
     ],
   },
   {
