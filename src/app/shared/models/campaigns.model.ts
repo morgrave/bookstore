@@ -67935,6 +67935,10 @@ export const Campaigns = [
         index: '16-1',
         name: '16-1화: A Mari Usque Ad Mare',
       },
+      {
+        index: '16-2',
+        name: '16-2화: A Mari Usque Ad Mare',
+      },
     ],
   },
   {
