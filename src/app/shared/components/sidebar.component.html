@@ -1,7 +1,7 @@
-<clr-vertical-nav-group *ngFor="let campaign of campaigns">
+<clr-vertical-nav-group *ngFor="let campaign of campaigns" [attr.data-title]="campaign.label">
   {{ campaign.label }}
   <clr-vertical-nav-group-children *clrIfExpanded="(viewerService.curTitle === campaign.title) ? true : false">
-    <a *ngFor="let log of campaign.logs" clrVerticalNavLink (click)="view(campaign, log)" [ngClass]="viewerService.curIndex === log.index && viewerService.curTitle === campaign.title ? 'active' : '' ">
+    <a *ngFor="let log of campaign.logs" clrVerticalNavLink (click)="view(campaign, log)" [ngClass]="viewerService.curIndex === log.index && viewerService.curTitle === campaign.title ? 'active' : '' " [attr.data-parent]="campaign.label" [attr.data-group]="campaign.title" [attr.data-index]="log.index">
       {{ log.name }}
     </a>
   </clr-vertical-nav-group-children>
