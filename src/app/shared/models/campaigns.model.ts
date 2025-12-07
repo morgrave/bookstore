@@ -67967,6 +67967,10 @@ export const Campaigns = [
         index: '17-4',
         name: '17-4화: 죄의 태양',
       },
+      {
+        index: '17-5',
+        name: '17-5화: 죄의 태양',
+      },
     ],
   },
   {
