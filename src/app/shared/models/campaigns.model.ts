@@ -67987,6 +67987,10 @@ export const Campaigns = [
         index: '18-4',
         name: '18-4화: 머미',
       },
+      {
+        index: '19-1',
+        name: '19-1화: 쥐들의 외통',
+      },
     ],
   },
   {
