@@ -5,11 +5,14 @@
         <span class="title">모그레이브 도서관</span>
       </a>
     </div>
-    <!-- <div class="header-nav">
-      <a class="nav-link" routerLink="explore" routerLinkActive="active">
-        <span class="nav-text">로그</span>
+    <div class="header-nav" [clr-nav-level]="1">
+      <a class="nav-link" href="https://morgrave.github.io/wiki/">
+        <span class="nav-text">위키 페이지</span>
       </a>
-    </div> -->
+      <a class="nav-link" href="https://morgrave.github.io/xperion/">
+        <span class="nav-text">엑스페리온 저장소</span>
+      </a>
+    </div>
   </clr-header>
   <div class="content-container">
     <clr-vertical-nav [clr-nav-level]="1" [clrVerticalNavCollapsible]="true">
