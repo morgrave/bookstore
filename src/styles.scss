@@ -10,3 +10,8 @@
 .clr-vertical-nav:not(.is-collapsed) {
   width: 15rem !important;
 }
+@media screen and (max-width: 992px) {
+  .main-container.open-hamburger-menu .header-nav.clr-nav-level-1{
+    display: none;
+  }
+}
