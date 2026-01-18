@@ -67991,6 +67991,10 @@ export const Campaigns = [
         index: '19-1',
         name: '19-1화: 쥐들의 외통',
       },
+      {
+        index: '20-1',
+        name: '20-1화: 밤피르',
+      },
     ],
   },
   {
