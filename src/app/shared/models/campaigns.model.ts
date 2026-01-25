@@ -67995,6 +67995,10 @@ export const Campaigns = [
         index: '20-1',
         name: '20-1화: 밤피르',
       },
+      {
+        index: '20-2',
+        name: '20-2화: 밤피르',
+      },
     ],
   },
   {
