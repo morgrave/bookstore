@@ -68015,6 +68015,10 @@ export const Campaigns = [
         index: '21-1',
         name: '21-1화: 잔여물',
       },
+      {
+        index: '21-2',
+        name: '21-2화: 잔여물',
+      },
     ],
   },
   {
