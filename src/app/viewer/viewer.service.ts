@@ -128,6 +128,10 @@ export class ViewerService {
                 `(<img([^<]+)<\/div>([^<]+)<h4 class="message-sender">${npc.name}<\/h4>)`,
                 'gi'
               );
+              const regexp4 = new RegExp(
+                `(<img([^<]+)</a><span class="name-stacked"><span class="title">${npc.name})`,
+                'gi'
+              );
               return log.replace(
                 regexp,
                 `<img src="${this.baseHref}assets/images/${npc.avatar}" width="36" height="36" class="message-portrait" style="border: none"/><h4 class="message-sender chat-portrait-text-size-name">${npc.name}</h4>`
@@ -137,6 +141,9 @@ export class ViewerService {
               ).replace(
                 regexp3,
                 `<img src="${this.baseHref}assets/images/${npc.avatar}" width="36" height="36" class="message-sender chat-portrait-text-size-name-pf2e" style="border: none;"/></div><h4 class="message-sender">${npc.name}</h4>`
+              ).replace(
+                regexp4,
+                `<img src="${this.baseHref}assets/images/${npc.avatar}" width="36" height="36" class="message-portrait" style="border: none"/></a><span class="name-stacked"><span class="title">${npc.name}`
               );
             } else {
               const regexp = new RegExp(
@@ -149,7 +156,8 @@ export class ViewerService {
               );
             }
           }, log);
-          if (environment.production === true) {
+          // if (environment.production === true) {
+          if (true) {
             this.log = this.sanitizer.bypassSecurityTrustHtml(
               log.replace(
                 campaign.platform === 'FVTT'

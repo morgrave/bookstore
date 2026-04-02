@@ -165,3 +165,24 @@ header {
 .hidden {
   display: none;
 }
+
+.summary {
+  background: none;
+  color: var(--clr-h4-color, black);
+}
+
+.name-stacked border {
+  border: none;
+}
+
+.title {
+  font-weight: 500;
+}
+
+.subtitle {
+  display: none;
+}
+
+.gold-icon {
+  display: none;
+}

@@ -1,3 +1,4 @@
+import { BAG } from "./BAG";
 import { DRO } from "./DRO";
 import { UDT } from "./UDT";
 import { VS } from "./VS";
@@ -30,6 +31,7 @@ export interface Image {
 }
 
 export const Campaigns = [
+  BAG,
   DRO,
   UDT,
   VS,
