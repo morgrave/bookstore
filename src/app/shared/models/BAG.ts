@@ -46,5 +46,9 @@ export const BAG = {
       name: '0화: 프롤로그',
       video: 'https://www.youtube.com/embed/6YjE_ImtwoE',
     },
+    {
+      index: '1',
+      name: '1화',
+    },
   ],
 };
