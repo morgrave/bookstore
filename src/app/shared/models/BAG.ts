@@ -51,5 +51,10 @@ export const BAG = {
       name: '1화',
       video: 'https://www.youtube.com/embed/xnEH-tSVt4w',
     },
+    {
+      index: '2',
+      name: '2화',
+      video: 'https://www.youtube.com/embed/IsIWGzN0FR0',
+    },
   ],
 };
