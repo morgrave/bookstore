@@ -39,6 +39,14 @@ export const BAG = {
       name: '리나',
       avatar: 'bag_lina.png',
     },
+    {
+      name: '마렐',
+      avatar: 'bag_marel.png',
+    },
+    {
+      name: '볼가',
+      avatar: 'bag_volga.png',
+    },
   ],
   logs: [
     {
