@@ -79,5 +79,10 @@ export const BAG = {
       name: '5화',
       video: 'https://www.youtube.com/embed/s3tfWJeoh-8',
     },
+    {
+      index: '6',
+      name: '6화',
+      video: 'https://www.youtube.com/embed/X2DsMATp6JQ',
+    },
   ],
 };
