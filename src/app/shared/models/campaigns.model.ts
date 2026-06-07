@@ -68069,6 +68069,10 @@ export const Campaigns = [
         index: '24-1',
         name: '24-1화: 눈을 감은 신',
       },
+      {
+        index: '24-2',
+        name: '24-2화: 눈을 감은 신',
+      },
     ],
   },
   {
