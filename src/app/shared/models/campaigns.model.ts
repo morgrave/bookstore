@@ -1,4 +1,5 @@
 import { BAG } from "./BAG";
+import { CCT } from "./CCT";
 import { DRO } from "./DRO";
 import { UDT } from "./UDT";
 import { VS } from "./VS";
@@ -68075,6 +68076,7 @@ export const Campaigns = [
       },
     ],
   },
+  CCT,
   {
     title: 'NJS',
     label: '닌자 슬레이어 (2023)',
