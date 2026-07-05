@@ -68086,6 +68086,10 @@ export const Campaigns = [
         index: '25-1',
         name: '25-1화: 흡혈귀의 미로',
       },
+      {
+        index: '25-2',
+        name: '25-2화: 흡혈귀의 미로',
+      },
     ],
   },
   CCT,
