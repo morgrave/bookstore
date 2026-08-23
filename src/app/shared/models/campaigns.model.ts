@@ -68106,6 +68106,10 @@ export const Campaigns = [
         index: '26-1',
         name: '26-1화: The World',
       },
+      {
+        index: '26-2',
+        name: '26-2화: The World',
+      },
     ],
   },
   CCT,
