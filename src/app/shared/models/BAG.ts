@@ -134,5 +134,10 @@ export const BAG = {
       name: '16화',
       video: 'https://www.youtube.com/embed/GRneY_q8q1c',
     },
+    {
+      index: '17',
+      name: '17화',
+      video: 'https://www.youtube.com/embed/E-k20f53Xt4',
+    },
   ],
 };
