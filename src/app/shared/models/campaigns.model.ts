@@ -68126,6 +68126,10 @@ export const Campaigns = [
         index: '27-4',
         name: '27-4화: 꿈의 경계',
       },
+      {
+        index: '28-1',
+        name: '28-1화: 악식공',
+      },
     ],
   },
   CCT,
