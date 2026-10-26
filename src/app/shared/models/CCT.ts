@@ -49,5 +49,9 @@ export const CCT = {
       index: '11',
       name: '11화',
     },
+    {
+      index: '12',
+      name: '12화',
+    },
   ],
 };
