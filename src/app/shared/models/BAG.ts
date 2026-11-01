@@ -152,7 +152,7 @@ export const BAG = {
     {
       index: '20',
       name: '20화',
-      video: 'https://www.youtube.com/embed/tL6l6OF4nbE',
+      video: 'https://www.youtube.com/embed/7rCAO257N2A',
     },
   ],
 };
