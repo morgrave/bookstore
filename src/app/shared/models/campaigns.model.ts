@@ -68139,6 +68139,10 @@ export const Campaigns = [
         index: '29-2',
         name: '29-2화: 취몽환성',
       },
+      {
+        index: '29-3',
+        name: '29-3화: 취몽환성',
+      },
     ],
   },
   CCT,
