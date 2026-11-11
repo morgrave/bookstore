@@ -17,5 +17,9 @@ export const TLB = {
       index: '3',
       name: '3화',
     },
+    {
+      index: '4',
+      name: '4화',
+    },
   ],
 };
