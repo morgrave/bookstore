@@ -68147,6 +68147,10 @@ export const Campaigns = [
         index: '30-1',
         name: '30-1화: 사교도의 입맞춤',
       },
+      {
+        index: '30-2',
+        name: '30-2화: 사교도의 입맞춤',
+      },
     ],
   },
   CCT,
